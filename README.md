@@ -8,6 +8,7 @@ This repository is a personal archive of beautiful wallpapers that I have gather
 
 <p align="center">
 
+<img src="Static-Wallpapers/051-falltree.png" width="300">
 <img src="Static-Wallpapers/Abstract - Nature.jpg" width="300">
 <img src="Static-Wallpapers/Anime - Landscape.jpeg" width="300">
 <img src="Static-Wallpapers/Anime-City-Night.png" width="300">
@@ -62,6 +63,7 @@ This repository is a personal archive of beautiful wallpapers that I have gather
 <img src="Static-Wallpapers/Forest-Light.png" width="300">
 <img src="Static-Wallpapers/Fuji-Dark.png" width="300">
 <img src="Static-Wallpapers/Game-GTA.png" width="300">
+<img src="Static-Wallpapers/Hcrvwqc.jpeg" width="300">
 <img src="Static-Wallpapers/Inazuma_tensukaku.png" width="300">
 <img src="Static-Wallpapers/Lady.png" width="300">
 <img src="Static-Wallpapers/Linux-user-Room.png" width="300">
@@ -121,17 +123,20 @@ This repository is a personal archive of beautiful wallpapers that I have gather
 <img src="Static-Wallpapers/anime-night-sky-illustration.jpg" width="300">
 <img src="Static-Wallpapers/anime-night-stars-sky-clouds-scenery.jpg" width="300">
 <img src="Static-Wallpapers/apple-light.jpg" width="300">
+<img src="Static-Wallpapers/arch_linux.png" width="300">
 <img src="Static-Wallpapers/arlecchino.jpeg" width="300">
 <img src="Static-Wallpapers/astro-skull.png" width="300">
 <img src="Static-Wallpapers/bloodrock-steppes.png" width="300">
 <img src="Static-Wallpapers/blue_night_moon_over_lake.jpg" width="300">
 <img src="Static-Wallpapers/broom-fall.jpg" width="300">
 <img src="Static-Wallpapers/building_cyber.jpg" width="300">
+<img src="Static-Wallpapers/cabin-4.png" width="300">
 <img src="Static-Wallpapers/catumbrella.jpg" width="300">
 <img src="Static-Wallpapers/changli.png" width="300">
 <img src="Static-Wallpapers/city-rain.png" width="300">
 <img src="Static-Wallpapers/city_bridge.jpg" width="300">
 <img src="Static-Wallpapers/city_top_view.jpg" width="300">
+<img src="Static-Wallpapers/clouds_parallelogram.jpg" width="300">
 <img src="Static-Wallpapers/cloudy.jpg" width="300">
 <img src="Static-Wallpapers/comet.jpg" width="300">
 <img src="Static-Wallpapers/copper_mountain.jpg" width="300">
@@ -142,6 +147,8 @@ This repository is a personal archive of beautiful wallpapers that I have gather
 <img src="Static-Wallpapers/evening-landscape.jpg" width="300">
 <img src="Static-Wallpapers/explorer_green_day.jpg" width="300">
 <img src="Static-Wallpapers/forest-landscape.jpg" width="300">
+<img src="Static-Wallpapers/gray-anime-girl.jpg" width="300">
+<img src="Static-Wallpapers/hi.png" width="300">
 <img src="Static-Wallpapers/high_tension.jpg" width="300">
 <img src="Static-Wallpapers/illustration-anime-city.jpg" width="300">
 <img src="Static-Wallpapers/inazuma_cats_place.png" width="300">
@@ -152,6 +159,7 @@ This repository is a personal archive of beautiful wallpapers that I have gather
 <img src="Static-Wallpapers/japan-street-Light.png" width="300">
 <img src="Static-Wallpapers/japanese-train.png" width="300">
 <img src="Static-Wallpapers/jinhsi.jpeg" width="300">
+<img src="Static-Wallpapers/kanagawa_waves.png" width="300">
 <img src="Static-Wallpapers/ketils_farm.jpg" width="300">
 <img src="Static-Wallpapers/keyboard.png" width="300">
 <img src="Static-Wallpapers/liquid-yin-and-yang.jpeg" width="300">
@@ -173,23 +181,33 @@ This repository is a personal archive of beautiful wallpapers that I have gather
 <img src="Static-Wallpapers/night_city.jpg" width="300">
 <img src="Static-Wallpapers/nix-bright.png" width="300">
 <img src="Static-Wallpapers/nix-dark.png" width="300">
+<img src="Static-Wallpapers/nix-wallpaper-nineish-catppuccin-mocha-alt.png" width="300">
+<img src="Static-Wallpapers/nix-wallpaper-nineish.png" width="300">
+<img src="Static-Wallpapers/nix-wallpaper-stripes-logo.png" width="300">
 <img src="Static-Wallpapers/nix.png" width="300">
 <img src="Static-Wallpapers/no-mans-land.jpg" width="300">
 <img src="Static-Wallpapers/nordwall3.jpg" width="300">
 <img src="Static-Wallpapers/northern-night.jpg" width="300">
+<img src="Static-Wallpapers/null.png" width="300">
 <img src="Static-Wallpapers/nuvillette.png" width="300">
+<img src="Static-Wallpapers/nyx_bright.png" width="300">
+<img src="Static-Wallpapers/nyx_dark.png" width="300">
 <img src="Static-Wallpapers/orange-desert.jpg" width="300">
+<img src="Static-Wallpapers/pacman.png" width="300">
 <img src="Static-Wallpapers/phoebe_wuwa.jpg" width="300">
 <img src="Static-Wallpapers/psycho-mob-100.png" width="300">
 <img src="Static-Wallpapers/raiden-with-umbrella.jpg" width="300">
 <img src="Static-Wallpapers/raiden.png" width="300">
 <img src="Static-Wallpapers/raiden_shogan.jpg" width="300">
+<img src="Static-Wallpapers/red_forest.png" width="300">
 <img src="Static-Wallpapers/reflection-of-train.png" width="300">
 <img src="Static-Wallpapers/river_to_castle_theme_blue.jpg" width="300">
 <img src="Static-Wallpapers/robot-home.png" width="300">
+<img src="Static-Wallpapers/rocket-launch.jpg" width="300">
 <img src="Static-Wallpapers/rocket_launch.jpg" width="300">
 <img src="Static-Wallpapers/rocky_land.jpg" width="300">
 <img src="Static-Wallpapers/rose-pine-sword.jpg" width="300">
+<img src="Static-Wallpapers/sakura-gate.jpg" width="300">
 <img src="Static-Wallpapers/shiba.png" width="300">
 <img src="Static-Wallpapers/ship-landscape.jpeg" width="300">
 <img src="Static-Wallpapers/sky_view.jpg" width="300">
@@ -197,20 +215,27 @@ This repository is a personal archive of beautiful wallpapers that I have gather
 <img src="Static-Wallpapers/spaceship1.jpg" width="300">
 <img src="Static-Wallpapers/spaceship2.jpg" width="300">
 <img src="Static-Wallpapers/spaceshuttle.png" width="300">
+<img src="Static-Wallpapers/stall.jpg" width="300">
 <img src="Static-Wallpapers/sunset-01.png" width="300">
 <img src="Static-Wallpapers/sunset-10.jpg" width="300">
 <img src="Static-Wallpapers/sunset-drive-forest.jpg" width="300">
 <img src="Static-Wallpapers/sunset-in-thick-forest.jpg" width="300">
 <img src="Static-Wallpapers/sunset-lookout.jpg" width="300">
 <img src="Static-Wallpapers/sunset-mountain-beautiful.jpg" width="300">
+<img src="Static-Wallpapers/sunset4.jpg" width="300">
+<img src="Static-Wallpapers/sunset_gradient.png" width="300">
 <img src="Static-Wallpapers/sunset_landscape.jpg" width="300">
 <img src="Static-Wallpapers/sword-red.png" width="300">
+<img src="Static-Wallpapers/sword.jpg" width="300">
 <img src="Static-Wallpapers/the-snap-hunt-camping.png" width="300">
 <img src="Static-Wallpapers/the-white-horse.jpg" width="300">
 <img src="Static-Wallpapers/thorfinn_and_askeladd.jpg" width="300">
 <img src="Static-Wallpapers/thorfinn_with_tourch.jpg" width="300">
+<img src="Static-Wallpapers/train-sideview.png" width="300">
 <img src="Static-Wallpapers/train.png" width="300">
 <img src="Static-Wallpapers/tree.jpg" width="300">
+<img src="Static-Wallpapers/tree_red.png" width="300">
+<img src="Static-Wallpapers/vim.png" width="300">
 <img src="Static-Wallpapers/vinland-saga.jpg" width="300">
 <img src="Static-Wallpapers/wanderer.jpeg" width="300">
 <img src="Static-Wallpapers/watchtower-mountains-and-forests.jpg" width="300">
