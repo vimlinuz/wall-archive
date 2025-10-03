@@ -150,6 +150,7 @@ This repository is a personal archive of beautiful wallpapers that I have gather
 <img src="Static-Wallpapers/gray-anime-girl.jpg" width="300">
 <img src="Static-Wallpapers/hi.png" width="300">
 <img src="Static-Wallpapers/high_tension.jpg" width="300">
+<img src="Static-Wallpapers/hinata_with_cigar.png" width="300">
 <img src="Static-Wallpapers/illustration-anime-city.jpg" width="300">
 <img src="Static-Wallpapers/inazuma_cats_place.png" width="300">
 <img src="Static-Wallpapers/inazuma_sacrad_tree.jpg" width="300">
