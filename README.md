@@ -169,6 +169,7 @@ This repository is a personal archive of beautiful wallpapers that I have gather
 <img src="Static-Wallpapers/lose-control.png" width="300">
 <img src="Static-Wallpapers/marina-bay-sands.png" width="300">
 <img src="Static-Wallpapers/miyamoto.jpg" width="300">
+<img src="Static-Wallpapers/monochrome-gaze.png" width="300">
 <img src="Static-Wallpapers/monstad_in_dark.jpg" width="300">
 <img src="Static-Wallpapers/moonlight.jpg" width="300">
 <img src="Static-Wallpapers/mountain-lake.jpg" width="300">
@@ -238,6 +239,7 @@ This repository is a personal archive of beautiful wallpapers that I have gather
 <img src="Static-Wallpapers/tree_red.png" width="300">
 <img src="Static-Wallpapers/vim.png" width="300">
 <img src="Static-Wallpapers/vinland-saga.jpg" width="300">
+<img src="Static-Wallpapers/voilet-gaze.jpg" width="300">
 <img src="Static-Wallpapers/wanderer.jpeg" width="300">
 <img src="Static-Wallpapers/watchtower-mountains-and-forests.jpg" width="300">
 <img src="Static-Wallpapers/xiao_and_ganyu.jpg" width="300">
