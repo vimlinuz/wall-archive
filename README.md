@@ -37,6 +37,7 @@ This repository is a personal archive of beautiful wallpapers that I have gather
 <img src="Static-Wallpapers/Classroom.png" width="300">
 <img src="Static-Wallpapers/Concept-Japanese house.png" width="300">
 <img src="Static-Wallpapers/Courtside-Sunset.png" width="300">
+<img src="Static-Wallpapers/Dark-Anime-Girl-Wallpaper.png" width="300">
 <img src="Static-Wallpapers/Dark_Nature.png" width="300">
 <img src="Static-Wallpapers/Dessert_light.png" width="300">
 <img src="Static-Wallpapers/Dreamscape-Wanderer.jpg" width="300">
