@@ -121,10 +121,16 @@ This repository is a personal archive of beautiful wallpapers that I have gather
 <img src="Static-Wallpapers/Wangshu_Inn.jpg" width="300">
 <img src="Static-Wallpapers/Your_Name_Anime_night_sky.jpg" width="300">
 <img src="Static-Wallpapers/Your_Name_Night_Sky.jpg" width="300">
+<img src="Static-Wallpapers/a_black_and_white_image_of_a_person_falling_down.jpg" width="300">
+<img src="Static-Wallpapers/a_black_bird_with_a_sword.jpg" width="300">
+<img src="Static-Wallpapers/a_blue_sky_with_clouds.png" width="300">
+<img src="Static-Wallpapers/a_cartoon_of_a_woman_on_a_balcony.png" width="300">
+<img src="Static-Wallpapers/a_colorful_pyramid_with_text.jpg" width="300">
 <img src="Static-Wallpapers/anime-night-sky-illustration.jpg" width="300">
 <img src="Static-Wallpapers/anime-night-stars-sky-clouds-scenery.jpg" width="300">
 <img src="Static-Wallpapers/apple-light.jpg" width="300">
 <img src="Static-Wallpapers/arch_linux.png" width="300">
+<img src="Static-Wallpapers/arch_rainbow.png" width="300">
 <img src="Static-Wallpapers/arlecchino.jpeg" width="300">
 <img src="Static-Wallpapers/astro-skull.png" width="300">
 <img src="Static-Wallpapers/bloodrock-steppes.png" width="300">
@@ -132,6 +138,7 @@ This repository is a personal archive of beautiful wallpapers that I have gather
 <img src="Static-Wallpapers/broom-fall.jpg" width="300">
 <img src="Static-Wallpapers/building_cyber.jpg" width="300">
 <img src="Static-Wallpapers/cabin-4.png" width="300">
+<img src="Static-Wallpapers/cat.png" width="300">
 <img src="Static-Wallpapers/catumbrella.jpg" width="300">
 <img src="Static-Wallpapers/changli.png" width="300">
 <img src="Static-Wallpapers/city-rain.png" width="300">
@@ -139,12 +146,14 @@ This repository is a personal archive of beautiful wallpapers that I have gather
 <img src="Static-Wallpapers/city_top_view.jpg" width="300">
 <img src="Static-Wallpapers/clouds_parallelogram.jpg" width="300">
 <img src="Static-Wallpapers/cloudy.jpg" width="300">
+<img src="Static-Wallpapers/cloudy_sky.jpg" width="300">
 <img src="Static-Wallpapers/comet.jpg" width="300">
 <img src="Static-Wallpapers/copper_mountain.jpg" width="300">
 <img src="Static-Wallpapers/corndog.png" width="300">
 <img src="Static-Wallpapers/cyber_girl.jpg" width="300">
 <img src="Static-Wallpapers/deer_in_pine_forest.jpg" width="300">
 <img src="Static-Wallpapers/emma.jpg" width="300">
+<img src="Static-Wallpapers/evelyn.png" width="300">
 <img src="Static-Wallpapers/evening-landscape.jpg" width="300">
 <img src="Static-Wallpapers/explorer_green_day.jpg" width="300">
 <img src="Static-Wallpapers/forest-landscape.jpg" width="300">
@@ -172,6 +181,7 @@ This repository is a personal archive of beautiful wallpapers that I have gather
 <img src="Static-Wallpapers/miyamoto.jpg" width="300">
 <img src="Static-Wallpapers/monochrome-gaze.png" width="300">
 <img src="Static-Wallpapers/monstad_in_dark.jpg" width="300">
+<img src="Static-Wallpapers/moon.png" width="300">
 <img src="Static-Wallpapers/moonlight.jpg" width="300">
 <img src="Static-Wallpapers/mountain-lake.jpg" width="300">
 <img src="Static-Wallpapers/mountain-sunrise.jpg" width="300">
@@ -202,6 +212,7 @@ This repository is a personal archive of beautiful wallpapers that I have gather
 <img src="Static-Wallpapers/raiden-with-umbrella.jpg" width="300">
 <img src="Static-Wallpapers/raiden.png" width="300">
 <img src="Static-Wallpapers/raiden_shogan.jpg" width="300">
+<img src="Static-Wallpapers/rainbow.png" width="300">
 <img src="Static-Wallpapers/red_forest.png" width="300">
 <img src="Static-Wallpapers/reflection-of-train.png" width="300">
 <img src="Static-Wallpapers/river_to_castle_theme_blue.jpg" width="300">
@@ -238,6 +249,7 @@ This repository is a personal archive of beautiful wallpapers that I have gather
 <img src="Static-Wallpapers/train.png" width="300">
 <img src="Static-Wallpapers/tree.jpg" width="300">
 <img src="Static-Wallpapers/tree_red.png" width="300">
+<img src="Static-Wallpapers/ufo_and_cat.png" width="300">
 <img src="Static-Wallpapers/vim.png" width="300">
 <img src="Static-Wallpapers/vinland-saga.jpg" width="300">
 <img src="Static-Wallpapers/voilet-gaze.jpg" width="300">
