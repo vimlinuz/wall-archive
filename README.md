@@ -101,7 +101,6 @@ This repository is a personal archive of beautiful wallpapers that I have gather
 <img src="Static-Wallpapers/Pastel-Window.png" width="300">
 <img src="Static-Wallpapers/Path-to-the-Moon.jpg" width="300">
 <img src="Static-Wallpapers/Pink-Moon-Serenity.jpg" width="300">
-<img src="Static-Wallpapers/Pstel-Window.png" width="300">
 <img src="Static-Wallpapers/Red_Eclipse.png" width="300">
 <img src="Static-Wallpapers/Relaxed_Mario.png" width="300">
 <img src="Static-Wallpapers/Scifi-Room.png" width="300">
