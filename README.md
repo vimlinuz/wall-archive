@@ -9,7 +9,9 @@ This repository is a personal archive of beautiful wallpapers that I have gather
 <p align="center">
 
 <img src="Static-Wallpapers/051-falltree.png" width="300">
+<img src="Static-Wallpapers/4 Elements Significant Speck.png" width="300">
 <img src="Static-Wallpapers/Abstract - Nature.jpg" width="300">
+<img src="Static-Wallpapers/Alchemical Growth.png" width="300">
 <img src="Static-Wallpapers/Anime - Landscape.jpeg" width="300">
 <img src="Static-Wallpapers/Anime-City-Night.png" width="300">
 <img src="Static-Wallpapers/Anime-Girl-Night-Sky.jpg" width="300">
@@ -24,6 +26,7 @@ This repository is a personal archive of beautiful wallpapers that I have gather
 <img src="Static-Wallpapers/Arch-chan_to.png" width="300">
 <img src="Static-Wallpapers/Backyard.png" width="300">
 <img src="Static-Wallpapers/Balcony-ja.png" width="300">
+<img src="Static-Wallpapers/Beauty of the Jungle.png" width="300">
 <img src="Static-Wallpapers/Beer-Girl.png" width="300">
 <img src="Static-Wallpapers/Bonsai-Plant.png" width="300">
 <img src="Static-Wallpapers/Buildings.png" width="300">
@@ -64,6 +67,7 @@ This repository is a personal archive of beautiful wallpapers that I have gather
 <img src="Static-Wallpapers/Forest-Light.png" width="300">
 <img src="Static-Wallpapers/Fuji-Dark.png" width="300">
 <img src="Static-Wallpapers/Game-GTA.png" width="300">
+<img src="Static-Wallpapers/Guilded Vineworks.png" width="300">
 <img src="Static-Wallpapers/Hcrvwqc.jpeg" width="300">
 <img src="Static-Wallpapers/Inazuma_tensukaku.png" width="300">
 <img src="Static-Wallpapers/Lady.png" width="300">
@@ -87,6 +91,7 @@ This repository is a personal archive of beautiful wallpapers that I have gather
 <img src="Static-Wallpapers/Manga-Portal.png" width="300">
 <img src="Static-Wallpapers/Manga-Shrine.png" width="300">
 <img src="Static-Wallpapers/Messy-Room.jpg" width="300">
+<img src="Static-Wallpapers/Meyen.png" width="300">
 <img src="Static-Wallpapers/Minimal_Squares.png" width="300">
 <img src="Static-Wallpapers/Moonlit-Mountain-Village.jpg" width="300">
 <img src="Static-Wallpapers/Mountain_dark.png" width="300">
@@ -98,12 +103,22 @@ This repository is a personal archive of beautiful wallpapers that I have gather
 <img src="Static-Wallpapers/Nature.png" width="300">
 <img src="Static-Wallpapers/Nightfall-by-the-Lake.jpg" width="300">
 <img src="Static-Wallpapers/Nights-Embrace.jpg" width="300">
+<img src="Static-Wallpapers/Nix Silk 01.png" width="300">
+<img src="Static-Wallpapers/Nix Silk 02.png" width="300">
+<img src="Static-Wallpapers/Nix Silk 03.png" width="300">
+<img src="Static-Wallpapers/Nix Silk 04.png" width="300">
+<img src="Static-Wallpapers/Nix Silk 05.png" width="300">
+<img src="Static-Wallpapers/Nix Silk 06.png" width="300">
+<img src="Static-Wallpapers/Nix Silk 07.png" width="300">
+<img src="Static-Wallpapers/Nix Silk 08.png" width="300">
+<img src="Static-Wallpapers/Nix Silk 10.png" width="300">
 <img src="Static-Wallpapers/Pastel-Window.png" width="300">
 <img src="Static-Wallpapers/Path-to-the-Moon.jpg" width="300">
 <img src="Static-Wallpapers/Pink-Moon-Serenity.jpg" width="300">
 <img src="Static-Wallpapers/Red_Eclipse.png" width="300">
 <img src="Static-Wallpapers/Relaxed_Mario.png" width="300">
 <img src="Static-Wallpapers/Scifi-Room.png" width="300">
+<img src="Static-Wallpapers/Silk Hal 4K.png" width="300">
 <img src="Static-Wallpapers/Street-2.png" width="300">
 <img src="Static-Wallpapers/Study-table.png" width="300">
 <img src="Static-Wallpapers/Sun-Setting-Horizon.png" width="300">
