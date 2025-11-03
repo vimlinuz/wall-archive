@@ -65,7 +65,6 @@ This repository is a personal archive of beautiful wallpapers that I have gather
 <img src="Static-Wallpapers/Forest-Light.png" width="300">
 <img src="Static-Wallpapers/Fuji-Dark.png" width="300">
 <img src="Static-Wallpapers/Game-GTA.png" width="300">
-<img src="Static-Wallpapers/Guilded Vineworks.png" width="300">
 <img src="Static-Wallpapers/Hcrvwqc.jpeg" width="300">
 <img src="Static-Wallpapers/Inazuma_tensukaku.png" width="300">
 <img src="Static-Wallpapers/Lady.png" width="300">
