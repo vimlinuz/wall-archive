@@ -10,7 +10,6 @@ This repository is a personal archive of beautiful wallpapers that I have gather
 
 <img src="Static-Wallpapers/051-falltree.png" width="300">
 <img src="Static-Wallpapers/Abstract - Nature.jpg" width="300">
-<img src="Static-Wallpapers/Alchemical Growth.png" width="300">
 <img src="Static-Wallpapers/Anime - Landscape.jpeg" width="300">
 <img src="Static-Wallpapers/Anime-City-Night.png" width="300">
 <img src="Static-Wallpapers/Anime-Girl-Night-Sky.jpg" width="300">
@@ -88,7 +87,6 @@ This repository is a personal archive of beautiful wallpapers that I have gather
 <img src="Static-Wallpapers/Manga-Portal.png" width="300">
 <img src="Static-Wallpapers/Manga-Shrine.png" width="300">
 <img src="Static-Wallpapers/Messy-Room.jpg" width="300">
-<img src="Static-Wallpapers/Meyen.png" width="300">
 <img src="Static-Wallpapers/Minimal_Squares.png" width="300">
 <img src="Static-Wallpapers/Moonlit-Mountain-Village.jpg" width="300">
 <img src="Static-Wallpapers/Mountain_dark.png" width="300">
@@ -146,7 +144,6 @@ This repository is a personal archive of beautiful wallpapers that I have gather
 <img src="Static-Wallpapers/astro-skull.png" width="300">
 <img src="Static-Wallpapers/bloodrock-steppes.png" width="300">
 <img src="Static-Wallpapers/blue_night_moon_over_lake.jpg" width="300">
-<img src="Static-Wallpapers/broom-fall.jpg" width="300">
 <img src="Static-Wallpapers/building_cyber.jpg" width="300">
 <img src="Static-Wallpapers/cabin-4.png" width="300">
 <img src="Static-Wallpapers/cat.png" width="300">
