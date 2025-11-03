@@ -199,6 +199,7 @@ This repository is a personal archive of beautiful wallpapers that I have gather
 <img src="Static-Wallpapers/moonlight.jpg" width="300">
 <img src="Static-Wallpapers/mountain-lake.jpg" width="300">
 <img src="Static-Wallpapers/mountain-sunrise.jpg" width="300">
+<img src="Static-Wallpapers/musashi_and_sasaki.png" width="300">
 <img src="Static-Wallpapers/muscle-car-ice-road-red-moon.jpg" width="300">
 <img src="Static-Wallpapers/mystical-night-in-town.jpg" width="300">
 <img src="Static-Wallpapers/nahida.jpeg" width="300">
