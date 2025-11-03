@@ -227,6 +227,7 @@ This repository is a personal archive of beautiful wallpapers that I have gather
 <img src="Static-Wallpapers/raiden.png" width="300">
 <img src="Static-Wallpapers/raiden_shogan.jpg" width="300">
 <img src="Static-Wallpapers/rainbow.png" width="300">
+<img src="Static-Wallpapers/ready_musasi.png" width="300">
 <img src="Static-Wallpapers/red_forest.png" width="300">
 <img src="Static-Wallpapers/reflection-of-train.png" width="300">
 <img src="Static-Wallpapers/river_to_castle_theme_blue.jpg" width="300">
