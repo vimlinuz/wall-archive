@@ -9,7 +9,6 @@ This repository is a personal archive of beautiful wallpapers that I have gather
 <p align="center">
 
 <img src="Static-Wallpapers/051-falltree.png" width="300">
-<img src="Static-Wallpapers/4 Elements Significant Speck.png" width="300">
 <img src="Static-Wallpapers/Abstract - Nature.jpg" width="300">
 <img src="Static-Wallpapers/Alchemical Growth.png" width="300">
 <img src="Static-Wallpapers/Anime - Landscape.jpeg" width="300">
@@ -26,7 +25,6 @@ This repository is a personal archive of beautiful wallpapers that I have gather
 <img src="Static-Wallpapers/Arch-chan_to.png" width="300">
 <img src="Static-Wallpapers/Backyard.png" width="300">
 <img src="Static-Wallpapers/Balcony-ja.png" width="300">
-<img src="Static-Wallpapers/Beauty of the Jungle.png" width="300">
 <img src="Static-Wallpapers/Beer-Girl.png" width="300">
 <img src="Static-Wallpapers/Bonsai-Plant.png" width="300">
 <img src="Static-Wallpapers/Buildings.png" width="300">
@@ -228,7 +226,6 @@ This repository is a personal archive of beautiful wallpapers that I have gather
 <img src="Static-Wallpapers/raiden.png" width="300">
 <img src="Static-Wallpapers/raiden_shogan.jpg" width="300">
 <img src="Static-Wallpapers/rainbow.png" width="300">
-<img src="Static-Wallpapers/ready_musasi.png" width="300">
 <img src="Static-Wallpapers/red_forest.png" width="300">
 <img src="Static-Wallpapers/reflection-of-train.png" width="300">
 <img src="Static-Wallpapers/river_to_castle_theme_blue.jpg" width="300">
