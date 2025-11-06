@@ -138,6 +138,7 @@ This repository is a personal archive of beautiful wallpapers that I have gather
 <img src="Static-Wallpapers/anime-night-sky-illustration.jpg" width="300">
 <img src="Static-Wallpapers/anime-night-stars-sky-clouds-scenery.jpg" width="300">
 <img src="Static-Wallpapers/apple-light.jpg" width="300">
+<img src="Static-Wallpapers/arch_btw.png" width="300">
 <img src="Static-Wallpapers/arch_linux.png" width="300">
 <img src="Static-Wallpapers/arch_rainbow.png" width="300">
 <img src="Static-Wallpapers/arlecchino.jpeg" width="300">
