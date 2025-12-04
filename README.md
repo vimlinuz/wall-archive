@@ -134,6 +134,7 @@ This repository is a personal archive of beautiful wallpapers that I have gather
 <img src="Static-Wallpapers/a_black_bird_with_a_sword.jpg" width="300">
 <img src="Static-Wallpapers/a_blue_sky_with_clouds.png" width="300">
 <img src="Static-Wallpapers/a_cartoon_of_a_woman_on_a_balcony.png" width="300">
+<img src="Static-Wallpapers/a_city_skyline_with_trees_and_clouds1.jpg" width="300">
 <img src="Static-Wallpapers/a_colorful_pyramid_with_text.jpg" width="300">
 <img src="Static-Wallpapers/anime-night-sky-illustration.jpg" width="300">
 <img src="Static-Wallpapers/anime-night-stars-sky-clouds-scenery.jpg" width="300">
