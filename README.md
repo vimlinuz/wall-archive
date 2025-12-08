@@ -162,6 +162,7 @@ This repository is a personal archive of beautiful wallpapers that I have gather
 <img src="Static-Wallpapers/corndog.png" width="300">
 <img src="Static-Wallpapers/cyber_girl.jpg" width="300">
 <img src="Static-Wallpapers/deer_in_pine_forest.jpg" width="300">
+<img src="Static-Wallpapers/drawing.png" width="300">
 <img src="Static-Wallpapers/emma.jpg" width="300">
 <img src="Static-Wallpapers/evelyn.png" width="300">
 <img src="Static-Wallpapers/evening-landscape.jpg" width="300">
