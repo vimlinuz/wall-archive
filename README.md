@@ -136,6 +136,10 @@ This repository is a personal archive of beautiful wallpapers that I have gather
 <img src="Static-Wallpapers/a_cartoon_of_a_woman_on_a_balcony.png" width="300">
 <img src="Static-Wallpapers/a_city_skyline_with_trees_and_clouds1.jpg" width="300">
 <img src="Static-Wallpapers/a_colorful_pyramid_with_text.jpg" width="300">
+<img src="Static-Wallpapers/a_house_with_a_bike_and_a_chair.jpg" width="300">
+<img src="Static-Wallpapers/a_mountain_range_with_snow.png" width="300">
+<img src="Static-Wallpapers/a_person_in_a_hat_standing_in_a_room_with_windows.png" width="300">
+<img src="Static-Wallpapers/a_person_on_a_bicycle_on_a_railing_with_a_city_in_the_background.png" width="300">
 <img src="Static-Wallpapers/anime-night-sky-illustration.jpg" width="300">
 <img src="Static-Wallpapers/anime-night-stars-sky-clouds-scenery.jpg" width="300">
 <img src="Static-Wallpapers/apple-light.jpg" width="300">
@@ -203,6 +207,7 @@ This repository is a personal archive of beautiful wallpapers that I have gather
 <img src="Static-Wallpapers/nature.jpg" width="300">
 <img src="Static-Wallpapers/natures-mountain-waters.jpg" width="300">
 <img src="Static-Wallpapers/neon_car.jpg" width="300">
+<img src="Static-Wallpapers/neotoxin.png" width="300">
 <img src="Static-Wallpapers/night_city.jpg" width="300">
 <img src="Static-Wallpapers/nix-bright.png" width="300">
 <img src="Static-Wallpapers/nix-dark.png" width="300">
