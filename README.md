@@ -166,6 +166,7 @@ This repository is a personal archive of beautiful wallpapers that I have gather
 <img src="Static-Wallpapers/corndog.png" width="300">
 <img src="Static-Wallpapers/cyber_girl.jpg" width="300">
 <img src="Static-Wallpapers/deer_in_pine_forest.jpg" width="300">
+<img src="Static-Wallpapers/demon-slayer-tanjiro-flaming-sword-dark-art-desktop-wallpaper.jpg" width="300">
 <img src="Static-Wallpapers/drawing.png" width="300">
 <img src="Static-Wallpapers/emma.jpg" width="300">
 <img src="Static-Wallpapers/evelyn.png" width="300">
@@ -200,6 +201,7 @@ This repository is a personal archive of beautiful wallpapers that I have gather
 <img src="Static-Wallpapers/moonlight.jpg" width="300">
 <img src="Static-Wallpapers/mountain-lake.jpg" width="300">
 <img src="Static-Wallpapers/mountain-sunrise.jpg" width="300">
+<img src="Static-Wallpapers/muichiro-tokito.png" width="300">
 <img src="Static-Wallpapers/musashi_and_sasaki.png" width="300">
 <img src="Static-Wallpapers/muscle-car-ice-road-red-moon.jpg" width="300">
 <img src="Static-Wallpapers/mystical-night-in-town.jpg" width="300">
@@ -260,6 +262,7 @@ This repository is a personal archive of beautiful wallpapers that I have gather
 <img src="Static-Wallpapers/sword.jpg" width="300">
 <img src="Static-Wallpapers/the-snap-hunt-camping.png" width="300">
 <img src="Static-Wallpapers/the-white-horse.jpg" width="300">
+<img src="Static-Wallpapers/thomas.png" width="300">
 <img src="Static-Wallpapers/thorfinn_and_askeladd.jpg" width="300">
 <img src="Static-Wallpapers/thorfinn_with_tourch.jpg" width="300">
 <img src="Static-Wallpapers/train-sideview.png" width="300">
