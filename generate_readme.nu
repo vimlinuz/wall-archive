@@ -1,8 +1,8 @@
-
 let readme_template = "
 # Wallpaper Archive
 
-This repository is a personal archive of beautiful wallpapers that I have gathered over time from a wide variety of sources and talented creators across the internet. My aim is simply to make it easier for myself (and anyone who stumbles across this) to find inspiring desktop backgrounds that look great on all kinds of setups from minimal, modern desktops like Hyprland to classic window managers and everything in between.
+This repository is a personal archive of beautiful wallpapers that I have gathered over time from a wide variety of sources and talented creators across the internet.
+My aim is simply to make it easier for myself (and anyone who stumbles across this) to find inspiring desktop backgrounds that look great on all kinds of setups from minimal, modern desktops like Hyprland to classic window managers and everything in between.
 
 ## Wallpaper Previews
 ### Static Wallpapers
@@ -21,18 +21,6 @@ let dynamic_note = "
 </p>
 
 ---
-
-### Dynamic Wallpapers
-
-**Note:** Dynamic wallpapers (.mp4, .webm) cannot be previewed directly in GitHub. Please browse the `Dynamic-Wallpapers/` folder to see the available animated wallpapers.
-
-## Organization
-
-Wallpapers are organized by their type:
-
-- `Dynamic-Wallpapers/` — Contains all the dynamic wallpapers
-- `Static-Wallpapers/` — Contains all the static wallpapers
-
 
 ## License
 
