@@ -146,6 +146,8 @@ My aim is simply to make it easier for myself (and anyone who stumbles across th
 <img src="Static-Wallpapers/apple-light.jpg" width="300">
 <img src="Static-Wallpapers/arch_btw.png" width="300">
 <img src="Static-Wallpapers/arch_linux.png" width="300">
+<img src="Static-Wallpapers/arch_log.png" width="300">
+<img src="Static-Wallpapers/arch_log_dark.png" width="300">
 <img src="Static-Wallpapers/arch_rainbow.png" width="300">
 <img src="Static-Wallpapers/arlecchino.jpeg" width="300">
 <img src="Static-Wallpapers/astro-skull.png" width="300">
@@ -175,6 +177,8 @@ My aim is simply to make it easier for myself (and anyone who stumbles across th
 <img src="Static-Wallpapers/explorer_green_day.jpg" width="300">
 <img src="Static-Wallpapers/forest-landscape.jpg" width="300">
 <img src="Static-Wallpapers/gray-anime-girl.jpg" width="300">
+<img src="Static-Wallpapers/gruvbox.png" width="300">
+<img src="Static-Wallpapers/hatsun_miku.png" width="300">
 <img src="Static-Wallpapers/hi.png" width="300">
 <img src="Static-Wallpapers/high_tension.jpg" width="300">
 <img src="Static-Wallpapers/hinata_with_cigar.png" width="300">
@@ -195,6 +199,7 @@ My aim is simply to make it easier for myself (and anyone who stumbles across th
 <img src="Static-Wallpapers/lofoten2.jpg" width="300">
 <img src="Static-Wallpapers/lose-control.png" width="300">
 <img src="Static-Wallpapers/marina-bay-sands.png" width="300">
+<img src="Static-Wallpapers/mine_craft_voilet.png" width="300">
 <img src="Static-Wallpapers/miyamoto.jpg" width="300">
 <img src="Static-Wallpapers/monochrome-gaze.png" width="300">
 <img src="Static-Wallpapers/monstad_in_dark.jpg" width="300">
@@ -276,6 +281,9 @@ My aim is simply to make it easier for myself (and anyone who stumbles across th
 <img src="Static-Wallpapers/voilet-gaze.jpg" width="300">
 <img src="Static-Wallpapers/wanderer.jpeg" width="300">
 <img src="Static-Wallpapers/watchtower-mountains-and-forests.jpg" width="300">
+<img src="Static-Wallpapers/will_find_you.jpg" width="300">
+<img src="Static-Wallpapers/work.png" width="300">
+<img src="Static-Wallpapers/wrap_white_red.jpg" width="300">
 <img src="Static-Wallpapers/xiao_and_ganyu.jpg" width="300">
 <img src="Static-Wallpapers/yellowcar.jpg" width="300">
 
