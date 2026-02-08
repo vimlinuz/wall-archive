@@ -269,6 +269,7 @@ My aim is simply to make it easier for myself (and anyone who stumbles across th
 <img src="Static-Wallpapers/sword.jpg" width="300">
 <img src="Static-Wallpapers/the-snap-hunt-camping.png" width="300">
 <img src="Static-Wallpapers/the-white-horse.jpg" width="300">
+<img src="Static-Wallpapers/the_village.png" width="300">
 <img src="Static-Wallpapers/thomas.png" width="300">
 <img src="Static-Wallpapers/thorfinn_and_askeladd.jpg" width="300">
 <img src="Static-Wallpapers/thorfinn_with_tourch.jpg" width="300">
