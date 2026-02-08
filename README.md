@@ -194,6 +194,7 @@ My aim is simply to make it easier for myself (and anyone who stumbles across th
 <img src="Static-Wallpapers/kanagawa_waves.png" width="300">
 <img src="Static-Wallpapers/ketils_farm.jpg" width="300">
 <img src="Static-Wallpapers/keyboard.png" width="300">
+<img src="Static-Wallpapers/kojiro_musashi.png" width="300">
 <img src="Static-Wallpapers/liquid-yin-and-yang.jpeg" width="300">
 <img src="Static-Wallpapers/lofoten-sundown.jpg" width="300">
 <img src="Static-Wallpapers/lofoten2.jpg" width="300">
