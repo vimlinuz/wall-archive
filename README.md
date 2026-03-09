@@ -66,6 +66,7 @@ My aim is simply to make it easier for myself (and anyone who stumbles across th
 <img src="wallpapers/Fuji-Dark.png" width="300">
 <img src="wallpapers/Game-GTA.png" width="300">
 <img src="wallpapers/Hcrvwqc.jpeg" width="300">
+<img src="wallpapers/Inazuma_tensukaku.png" width="300">
 <img src="wallpapers/Lady.png" width="300">
 <img src="wallpapers/Linux-user-Room.png" width="300">
 <img src="wallpapers/Lofi - Anime Girl Balcony.jpeg" width="300">
