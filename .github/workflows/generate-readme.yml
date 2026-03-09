@@ -5,7 +5,7 @@ on:
   push:
     branches: ["main"]
     paths:
-      - 'Static-Wallpapers/**'
+      - 'wallpapers/**'
       - 'generate_readme.nu'
 
 permissions:
