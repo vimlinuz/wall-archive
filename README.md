@@ -131,6 +131,7 @@ My aim is simply to make it easier for myself (and anyone who stumbles across th
 <img src="wallpapers/Wangshu_Inn.jpg" width="300">
 <img src="wallpapers/Your_Name_Anime_night_sky.jpg" width="300">
 <img src="wallpapers/Your_Name_Night_Sky.jpg" width="300">
+<img src="wallpapers/Yuki_Aim_Girl.png" width="300">
 <img src="wallpapers/a_black_and_white_image_of_a_person_falling_down.jpg" width="300">
 <img src="wallpapers/a_black_bird_with_a_sword.jpg" width="300">
 <img src="wallpapers/a_blue_sky_with_clouds.png" width="300">
@@ -192,6 +193,7 @@ My aim is simply to make it easier for myself (and anyone who stumbles across th
 <img src="wallpapers/japanese-train.png" width="300">
 <img src="wallpapers/jinhsi.jpeg" width="300">
 <img src="wallpapers/kanagawa_waves.png" width="300">
+<img src="wallpapers/katana_in_shadow.png" width="300">
 <img src="wallpapers/ketils_farm.jpg" width="300">
 <img src="wallpapers/keyboard.png" width="300">
 <img src="wallpapers/kojiro_musashi.png" width="300">
@@ -269,6 +271,7 @@ My aim is simply to make it easier for myself (and anyone who stumbles across th
 <img src="wallpapers/sword.jpg" width="300">
 <img src="wallpapers/the-snap-hunt-camping.png" width="300">
 <img src="wallpapers/the-white-horse.jpg" width="300">
+<img src="wallpapers/the_boreal_glow.png" width="300">
 <img src="wallpapers/the_village.png" width="300">
 <img src="wallpapers/thomas.png" width="300">
 <img src="wallpapers/thorfinn_and_askeladd.jpg" width="300">
