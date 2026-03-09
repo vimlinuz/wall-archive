@@ -10,11 +10,11 @@ My aim is simply to make it easier for myself (and anyone who stumbles across th
 <p align=\"center\">
 "
 
-# Get all files in Static-Wallpapers/ with image extensions, sorted
-let images = ls Static-Wallpapers | sort-by name
+# Get all files in wallpaper/ with image extensions, sorted
+let images = ls wallpaper | sort-by name
 
 let img_tags = $images | each {|it| 
-    $"<img src=\"Static-Wallpapers/($it.name | path basename)\" width=\"300\">"
+    $"<img src=\"wallpaper/($it.name | path basename)\" width=\"300\">"
 } | str join "\n"
 
 let dynamic_note = "

@@ -9,284 +9,284 @@ My aim is simply to make it easier for myself (and anyone who stumbles across th
 
 <p align="center">
 
-<img src="Static-Wallpapers/051-falltree.png" width="300">
-<img src="Static-Wallpapers/Abstract - Nature.jpg" width="300">
-<img src="Static-Wallpapers/Anime - Landscape.jpeg" width="300">
-<img src="Static-Wallpapers/Anime-City-Night.png" width="300">
-<img src="Static-Wallpapers/Anime-Girl-Night-Sky.jpg" width="300">
-<img src="Static-Wallpapers/Anime-Girl-Rain.png" width="300">
-<img src="Static-Wallpapers/Anime-Girl1.png" width="300">
-<img src="Static-Wallpapers/Anime-Girl2.png" width="300">
-<img src="Static-Wallpapers/Anime-Girl3.png" width="300">
-<img src="Static-Wallpapers/Anime-Girl4.png" width="300">
-<img src="Static-Wallpapers/Anime-Girl5.png" width="300">
-<img src="Static-Wallpapers/Anime-Japan-Street.png" width="300">
-<img src="Static-Wallpapers/Anime-Room.png" width="300">
-<img src="Static-Wallpapers/Arch-chan_to.png" width="300">
-<img src="Static-Wallpapers/Backyard.png" width="300">
-<img src="Static-Wallpapers/Balcony-ja.png" width="300">
-<img src="Static-Wallpapers/Beer-Girl.png" width="300">
-<img src="Static-Wallpapers/Bonsai-Plant.png" width="300">
-<img src="Static-Wallpapers/Buildings.png" width="300">
-<img src="Static-Wallpapers/Cartoon.png" width="300">
-<img src="Static-Wallpapers/Celestial-Samurai.jpg" width="300">
-<img src="Static-Wallpapers/City-Night.png" width="300">
-<img src="Static-Wallpapers/City-Rain.png" width="300">
-<img src="Static-Wallpapers/City-Rainy-Night.png" width="300">
-<img src="Static-Wallpapers/City_dark.png" width="300">
-<img src="Static-Wallpapers/City_light.png" width="300">
-<img src="Static-Wallpapers/Classroom.png" width="300">
-<img src="Static-Wallpapers/Concept-Japanese house.png" width="300">
-<img src="Static-Wallpapers/Courtside-Sunset.png" width="300">
-<img src="Static-Wallpapers/Dark-Anime-Girl-Wallpaper.png" width="300">
-<img src="Static-Wallpapers/Dark_Nature.png" width="300">
-<img src="Static-Wallpapers/Dessert_light.png" width="300">
-<img src="Static-Wallpapers/Dreamscape-Wanderer.jpg" width="300">
-<img src="Static-Wallpapers/Dreamy-Aesthetic-Home-Under-Moonlight.png" width="300">
-<img src="Static-Wallpapers/Dusks-Embrace.jpg" width="300">
-<img src="Static-Wallpapers/Enchanted-Island.jpg" width="300">
-<img src="Static-Wallpapers/Fantasy - Mountain Lake.jpeg" width="300">
-<img src="Static-Wallpapers/Fantasy - Sunset.png" width="300">
-<img src="Static-Wallpapers/Fantasy-Autumn.png" width="300">
-<img src="Static-Wallpapers/Fantasy-Garden.png" width="300">
-<img src="Static-Wallpapers/Fantasy-Hongkong.png" width="300">
-<img src="Static-Wallpapers/Fantasy-IcyMountain.png" width="300">
-<img src="Static-Wallpapers/Fantasy-Japanese-Street.png" width="300">
-<img src="Static-Wallpapers/Fantasy-Lake1.png" width="300">
-<img src="Static-Wallpapers/Fantasy-Lake2.png" width="300">
-<img src="Static-Wallpapers/Fantasy-Lake3.png" width="300">
-<img src="Static-Wallpapers/Fantasy-Landscape1.png" width="300">
-<img src="Static-Wallpapers/Fantasy-Landscape2.png" width="300">
-<img src="Static-Wallpapers/Fantasy-Landscape3.png" width="300">
-<img src="Static-Wallpapers/Fantasy-Lanscape-Night.png" width="300">
-<img src="Static-Wallpapers/Fantasy-Mountain.png" width="300">
-<img src="Static-Wallpapers/Fantasy-Snow-Valley.png" width="300">
-<img src="Static-Wallpapers/Forest-Dark.png" width="300">
-<img src="Static-Wallpapers/Forest-Light.png" width="300">
-<img src="Static-Wallpapers/Fuji-Dark.png" width="300">
-<img src="Static-Wallpapers/Game-GTA.png" width="300">
-<img src="Static-Wallpapers/Hcrvwqc.jpeg" width="300">
-<img src="Static-Wallpapers/Lady.png" width="300">
-<img src="Static-Wallpapers/Linux-user-Room.png" width="300">
-<img src="Static-Wallpapers/Lofi - Anime Girl Balcony.jpeg" width="300">
-<img src="Static-Wallpapers/Lofi - Anime Girl Coder.jpeg" width="300">
-<img src="Static-Wallpapers/Lofi - Anime Girl.jpeg" width="300">
-<img src="Static-Wallpapers/Lofi - Anime Girl2.png" width="300">
-<img src="Static-Wallpapers/Lofi - Chill Room.png" width="300">
-<img src="Static-Wallpapers/Lofi - Chill Room2.jpeg" width="300">
-<img src="Static-Wallpapers/Lofi - Study.png" width="300">
-<img src="Static-Wallpapers/Lofi-Anime-Room.png" width="300">
-<img src="Static-Wallpapers/Lofi-Cafe1.png" width="300">
-<img src="Static-Wallpapers/Lofi-Cafe2.png" width="300">
-<img src="Static-Wallpapers/Lofi-Computer.png" width="300">
-<img src="Static-Wallpapers/Lofi-Desktop-Man-Studying.png" width="300">
-<img src="Static-Wallpapers/Lofi-Urban-Nightscape.png" width="300">
-<img src="Static-Wallpapers/Lofi_Cat.png" width="300">
-<img src="Static-Wallpapers/Lowpoly_Street.png" width="300">
-<img src="Static-Wallpapers/Manga-Girl-Rain.png" width="300">
-<img src="Static-Wallpapers/Manga-Portal.png" width="300">
-<img src="Static-Wallpapers/Manga-Shrine.png" width="300">
-<img src="Static-Wallpapers/Messy-Room.jpg" width="300">
-<img src="Static-Wallpapers/Minimal_Squares.png" width="300">
-<img src="Static-Wallpapers/Moonlit-Mountain-Village.jpg" width="300">
-<img src="Static-Wallpapers/Mountain_dark.png" width="300">
-<img src="Static-Wallpapers/Mountain_light.png" width="300">
-<img src="Static-Wallpapers/Musashi_Miyamoto.png" width="300">
-<img src="Static-Wallpapers/Nature - Concept Butterflies.png" width="300">
-<img src="Static-Wallpapers/Nature - Flower.png" width="300">
-<img src="Static-Wallpapers/Nature - Lake.png" width="300">
-<img src="Static-Wallpapers/Nature.png" width="300">
-<img src="Static-Wallpapers/Nightfall-by-the-Lake.jpg" width="300">
-<img src="Static-Wallpapers/Nights-Embrace.jpg" width="300">
-<img src="Static-Wallpapers/Nix Silk 01.png" width="300">
-<img src="Static-Wallpapers/Nix Silk 02.png" width="300">
-<img src="Static-Wallpapers/Nix Silk 03.png" width="300">
-<img src="Static-Wallpapers/Nix Silk 04.png" width="300">
-<img src="Static-Wallpapers/Nix Silk 05.png" width="300">
-<img src="Static-Wallpapers/Nix Silk 06.png" width="300">
-<img src="Static-Wallpapers/Nix Silk 07.png" width="300">
-<img src="Static-Wallpapers/Nix Silk 08.png" width="300">
-<img src="Static-Wallpapers/Nix Silk 10.png" width="300">
-<img src="Static-Wallpapers/Pastel-Window.png" width="300">
-<img src="Static-Wallpapers/Path-to-the-Moon.jpg" width="300">
-<img src="Static-Wallpapers/Pink-Moon-Serenity.jpg" width="300">
-<img src="Static-Wallpapers/Red_Eclipse.png" width="300">
-<img src="Static-Wallpapers/Relaxed_Mario.png" width="300">
-<img src="Static-Wallpapers/Scifi-Room.png" width="300">
-<img src="Static-Wallpapers/Silk Hal 4K.png" width="300">
-<img src="Static-Wallpapers/Street-2.png" width="300">
-<img src="Static-Wallpapers/Study-table.png" width="300">
-<img src="Static-Wallpapers/Sun-Setting-Horizon.png" width="300">
-<img src="Static-Wallpapers/Sunset-Forrest.png" width="300">
-<img src="Static-Wallpapers/Sunset-room.png" width="300">
-<img src="Static-Wallpapers/Techno-Geek.png" width="300">
-<img src="Static-Wallpapers/Temple-of-the-Setting-Sun.jpg" width="300">
-<img src="Static-Wallpapers/Tokyo_Pink.png" width="300">
-<img src="Static-Wallpapers/Tower-Night.png" width="300">
-<img src="Static-Wallpapers/Under_Starlit_Sky.png" width="300">
-<img src="Static-Wallpapers/Video Game - The Blackstreets.jpeg" width="300">
-<img src="Static-Wallpapers/Village-Dark.png" width="300">
-<img src="Static-Wallpapers/Village-Light.png" width="300">
-<img src="Static-Wallpapers/Wangshu_Inn.jpg" width="300">
-<img src="Static-Wallpapers/Your_Name_Anime_night_sky.jpg" width="300">
-<img src="Static-Wallpapers/Your_Name_Night_Sky.jpg" width="300">
-<img src="Static-Wallpapers/a_black_and_white_image_of_a_person_falling_down.jpg" width="300">
-<img src="Static-Wallpapers/a_black_bird_with_a_sword.jpg" width="300">
-<img src="Static-Wallpapers/a_blue_sky_with_clouds.png" width="300">
-<img src="Static-Wallpapers/a_cartoon_of_a_woman_on_a_balcony.png" width="300">
-<img src="Static-Wallpapers/a_city_skyline_with_trees_and_clouds1.jpg" width="300">
-<img src="Static-Wallpapers/a_colorful_pyramid_with_text.jpg" width="300">
-<img src="Static-Wallpapers/a_house_with_a_bike_and_a_chair.jpg" width="300">
-<img src="Static-Wallpapers/a_mountain_range_with_snow.png" width="300">
-<img src="Static-Wallpapers/a_person_in_a_hat_standing_in_a_room_with_windows.png" width="300">
-<img src="Static-Wallpapers/a_person_on_a_bicycle_on_a_railing_with_a_city_in_the_background.png" width="300">
-<img src="Static-Wallpapers/anime-night-sky-illustration.jpg" width="300">
-<img src="Static-Wallpapers/anime-night-stars-sky-clouds-scenery.jpg" width="300">
-<img src="Static-Wallpapers/apple-light.jpg" width="300">
-<img src="Static-Wallpapers/arch_btw.png" width="300">
-<img src="Static-Wallpapers/arch_linux.png" width="300">
-<img src="Static-Wallpapers/arch_log.png" width="300">
-<img src="Static-Wallpapers/arch_log_dark.png" width="300">
-<img src="Static-Wallpapers/arch_rainbow.png" width="300">
-<img src="Static-Wallpapers/arlecchino.jpeg" width="300">
-<img src="Static-Wallpapers/astro-skull.png" width="300">
-<img src="Static-Wallpapers/bloodrock-steppes.png" width="300">
-<img src="Static-Wallpapers/blue_night_moon_over_lake.jpg" width="300">
-<img src="Static-Wallpapers/building_cyber.jpg" width="300">
-<img src="Static-Wallpapers/cabin-4.png" width="300">
-<img src="Static-Wallpapers/cat.png" width="300">
-<img src="Static-Wallpapers/catumbrella.jpg" width="300">
-<img src="Static-Wallpapers/changli.png" width="300">
-<img src="Static-Wallpapers/city-rain.png" width="300">
-<img src="Static-Wallpapers/city_bridge.jpg" width="300">
-<img src="Static-Wallpapers/city_top_view.jpg" width="300">
-<img src="Static-Wallpapers/clouds_parallelogram.jpg" width="300">
-<img src="Static-Wallpapers/cloudy.jpg" width="300">
-<img src="Static-Wallpapers/cloudy_sky.jpg" width="300">
-<img src="Static-Wallpapers/comet.jpg" width="300">
-<img src="Static-Wallpapers/copper_mountain.jpg" width="300">
-<img src="Static-Wallpapers/corndog.png" width="300">
-<img src="Static-Wallpapers/cyber_girl.jpg" width="300">
-<img src="Static-Wallpapers/deer_in_pine_forest.jpg" width="300">
-<img src="Static-Wallpapers/demon-slayer-tanjiro-flaming-sword-dark-art-desktop-wallpaper.jpg" width="300">
-<img src="Static-Wallpapers/drawing.png" width="300">
-<img src="Static-Wallpapers/emma.jpg" width="300">
-<img src="Static-Wallpapers/evelyn.png" width="300">
-<img src="Static-Wallpapers/evening-landscape.jpg" width="300">
-<img src="Static-Wallpapers/explorer_green_day.jpg" width="300">
-<img src="Static-Wallpapers/forest-landscape.jpg" width="300">
-<img src="Static-Wallpapers/gray-anime-girl.jpg" width="300">
-<img src="Static-Wallpapers/gruvbox.png" width="300">
-<img src="Static-Wallpapers/hatsun_miku.png" width="300">
-<img src="Static-Wallpapers/hi.png" width="300">
-<img src="Static-Wallpapers/high_tension.jpg" width="300">
-<img src="Static-Wallpapers/hinata_with_cigar.png" width="300">
-<img src="Static-Wallpapers/illustration-anime-city.jpg" width="300">
-<img src="Static-Wallpapers/inazuma_cats_place.png" width="300">
-<img src="Static-Wallpapers/inazuma_sacrad_tree.jpg" width="300">
-<img src="Static-Wallpapers/italy.png" width="300">
-<img src="Static-Wallpapers/japan-background-digital-art.jpg" width="300">
-<img src="Static-Wallpapers/japan-street-Dark.png" width="300">
-<img src="Static-Wallpapers/japan-street-Light.png" width="300">
-<img src="Static-Wallpapers/japanese-train.png" width="300">
-<img src="Static-Wallpapers/jinhsi.jpeg" width="300">
-<img src="Static-Wallpapers/kanagawa_waves.png" width="300">
-<img src="Static-Wallpapers/ketils_farm.jpg" width="300">
-<img src="Static-Wallpapers/keyboard.png" width="300">
-<img src="Static-Wallpapers/kojiro_musashi.png" width="300">
-<img src="Static-Wallpapers/liquid-yin-and-yang.jpeg" width="300">
-<img src="Static-Wallpapers/lofoten-sundown.jpg" width="300">
-<img src="Static-Wallpapers/lofoten2.jpg" width="300">
-<img src="Static-Wallpapers/lose-control.png" width="300">
-<img src="Static-Wallpapers/marina-bay-sands.png" width="300">
-<img src="Static-Wallpapers/mine_craft_voilet.png" width="300">
-<img src="Static-Wallpapers/miyamoto.jpg" width="300">
-<img src="Static-Wallpapers/monochrome-gaze.png" width="300">
-<img src="Static-Wallpapers/monstad_in_dark.jpg" width="300">
-<img src="Static-Wallpapers/moon.png" width="300">
-<img src="Static-Wallpapers/moonlight.jpg" width="300">
-<img src="Static-Wallpapers/mountain-lake.jpg" width="300">
-<img src="Static-Wallpapers/mountain-sunrise.jpg" width="300">
-<img src="Static-Wallpapers/muichiro-tokito.png" width="300">
-<img src="Static-Wallpapers/musashi_and_sasaki.png" width="300">
-<img src="Static-Wallpapers/muscle-car-ice-road-red-moon.jpg" width="300">
-<img src="Static-Wallpapers/mystical-night-in-town.jpg" width="300">
-<img src="Static-Wallpapers/nahida.jpeg" width="300">
-<img src="Static-Wallpapers/nature.jpg" width="300">
-<img src="Static-Wallpapers/natures-mountain-waters.jpg" width="300">
-<img src="Static-Wallpapers/neon_car.jpg" width="300">
-<img src="Static-Wallpapers/neotoxin.png" width="300">
-<img src="Static-Wallpapers/night_city.jpg" width="300">
-<img src="Static-Wallpapers/nix-bright.png" width="300">
-<img src="Static-Wallpapers/nix-dark.png" width="300">
-<img src="Static-Wallpapers/nix-wallpaper-nineish-catppuccin-mocha-alt.png" width="300">
-<img src="Static-Wallpapers/nix-wallpaper-nineish.png" width="300">
-<img src="Static-Wallpapers/nix-wallpaper-stripes-logo.png" width="300">
-<img src="Static-Wallpapers/nix.png" width="300">
-<img src="Static-Wallpapers/no-mans-land.jpg" width="300">
-<img src="Static-Wallpapers/nordwall3.jpg" width="300">
-<img src="Static-Wallpapers/northern-night.jpg" width="300">
-<img src="Static-Wallpapers/null.png" width="300">
-<img src="Static-Wallpapers/nuvillette.png" width="300">
-<img src="Static-Wallpapers/nyx_bright.png" width="300">
-<img src="Static-Wallpapers/nyx_dark.png" width="300">
-<img src="Static-Wallpapers/orange-desert.jpg" width="300">
-<img src="Static-Wallpapers/pacman.png" width="300">
-<img src="Static-Wallpapers/phoebe_wuwa.jpg" width="300">
-<img src="Static-Wallpapers/psycho-mob-100.png" width="300">
-<img src="Static-Wallpapers/raiden-with-umbrella.jpg" width="300">
-<img src="Static-Wallpapers/raiden.png" width="300">
-<img src="Static-Wallpapers/raiden_shogan.jpg" width="300">
-<img src="Static-Wallpapers/rainbow.png" width="300">
-<img src="Static-Wallpapers/red_forest.png" width="300">
-<img src="Static-Wallpapers/reflection-of-train.png" width="300">
-<img src="Static-Wallpapers/river_to_castle_theme_blue.jpg" width="300">
-<img src="Static-Wallpapers/robot-home.png" width="300">
-<img src="Static-Wallpapers/rocket-launch.jpg" width="300">
-<img src="Static-Wallpapers/rocket_launch.jpg" width="300">
-<img src="Static-Wallpapers/rocky_land.jpg" width="300">
-<img src="Static-Wallpapers/rose-pine-sword.jpg" width="300">
-<img src="Static-Wallpapers/sakura-gate.jpg" width="300">
-<img src="Static-Wallpapers/shiba.png" width="300">
-<img src="Static-Wallpapers/ship-landscape.jpeg" width="300">
-<img src="Static-Wallpapers/sky_view.jpg" width="300">
-<img src="Static-Wallpapers/spaceship-start.jpg" width="300">
-<img src="Static-Wallpapers/spaceship1.jpg" width="300">
-<img src="Static-Wallpapers/spaceship2.jpg" width="300">
-<img src="Static-Wallpapers/spaceshuttle.png" width="300">
-<img src="Static-Wallpapers/stall.jpg" width="300">
-<img src="Static-Wallpapers/sunset-01.png" width="300">
-<img src="Static-Wallpapers/sunset-10.jpg" width="300">
-<img src="Static-Wallpapers/sunset-drive-forest.jpg" width="300">
-<img src="Static-Wallpapers/sunset-in-thick-forest.jpg" width="300">
-<img src="Static-Wallpapers/sunset-lookout.jpg" width="300">
-<img src="Static-Wallpapers/sunset-mountain-beautiful.jpg" width="300">
-<img src="Static-Wallpapers/sunset4.jpg" width="300">
-<img src="Static-Wallpapers/sunset_gradient.png" width="300">
-<img src="Static-Wallpapers/sunset_landscape.jpg" width="300">
-<img src="Static-Wallpapers/sword-red.png" width="300">
-<img src="Static-Wallpapers/sword.jpg" width="300">
-<img src="Static-Wallpapers/the-snap-hunt-camping.png" width="300">
-<img src="Static-Wallpapers/the-white-horse.jpg" width="300">
-<img src="Static-Wallpapers/the_village.png" width="300">
-<img src="Static-Wallpapers/thomas.png" width="300">
-<img src="Static-Wallpapers/thorfinn_and_askeladd.jpg" width="300">
-<img src="Static-Wallpapers/thorfinn_with_tourch.jpg" width="300">
-<img src="Static-Wallpapers/train-sideview.png" width="300">
-<img src="Static-Wallpapers/train.png" width="300">
-<img src="Static-Wallpapers/tree.jpg" width="300">
-<img src="Static-Wallpapers/tree_red.png" width="300">
-<img src="Static-Wallpapers/ufo_and_cat.png" width="300">
-<img src="Static-Wallpapers/vim.png" width="300">
-<img src="Static-Wallpapers/vinland-saga.jpg" width="300">
-<img src="Static-Wallpapers/voilet-gaze.jpg" width="300">
-<img src="Static-Wallpapers/wanderer.jpeg" width="300">
-<img src="Static-Wallpapers/watchtower-mountains-and-forests.jpg" width="300">
-<img src="Static-Wallpapers/will_find_you.jpg" width="300">
-<img src="Static-Wallpapers/work.png" width="300">
-<img src="Static-Wallpapers/wrap_white_red.jpg" width="300">
-<img src="Static-Wallpapers/xiao_and_ganyu.jpg" width="300">
-<img src="Static-Wallpapers/yellowcar.jpg" width="300">
+<img src="wallpaper/051-falltree.png" width="300">
+<img src="wallpaper/Abstract - Nature.jpg" width="300">
+<img src="wallpaper/Anime - Landscape.jpeg" width="300">
+<img src="wallpaper/Anime-City-Night.png" width="300">
+<img src="wallpaper/Anime-Girl-Night-Sky.jpg" width="300">
+<img src="wallpaper/Anime-Girl-Rain.png" width="300">
+<img src="wallpaper/Anime-Girl1.png" width="300">
+<img src="wallpaper/Anime-Girl2.png" width="300">
+<img src="wallpaper/Anime-Girl3.png" width="300">
+<img src="wallpaper/Anime-Girl4.png" width="300">
+<img src="wallpaper/Anime-Girl5.png" width="300">
+<img src="wallpaper/Anime-Japan-Street.png" width="300">
+<img src="wallpaper/Anime-Room.png" width="300">
+<img src="wallpaper/Arch-chan_to.png" width="300">
+<img src="wallpaper/Backyard.png" width="300">
+<img src="wallpaper/Balcony-ja.png" width="300">
+<img src="wallpaper/Beer-Girl.png" width="300">
+<img src="wallpaper/Bonsai-Plant.png" width="300">
+<img src="wallpaper/Buildings.png" width="300">
+<img src="wallpaper/Cartoon.png" width="300">
+<img src="wallpaper/Celestial-Samurai.jpg" width="300">
+<img src="wallpaper/City-Night.png" width="300">
+<img src="wallpaper/City-Rain.png" width="300">
+<img src="wallpaper/City-Rainy-Night.png" width="300">
+<img src="wallpaper/City_dark.png" width="300">
+<img src="wallpaper/City_light.png" width="300">
+<img src="wallpaper/Classroom.png" width="300">
+<img src="wallpaper/Concept-Japanese house.png" width="300">
+<img src="wallpaper/Courtside-Sunset.png" width="300">
+<img src="wallpaper/Dark-Anime-Girl-Wallpaper.png" width="300">
+<img src="wallpaper/Dark_Nature.png" width="300">
+<img src="wallpaper/Dessert_light.png" width="300">
+<img src="wallpaper/Dreamscape-Wanderer.jpg" width="300">
+<img src="wallpaper/Dreamy-Aesthetic-Home-Under-Moonlight.png" width="300">
+<img src="wallpaper/Dusks-Embrace.jpg" width="300">
+<img src="wallpaper/Enchanted-Island.jpg" width="300">
+<img src="wallpaper/Fantasy - Mountain Lake.jpeg" width="300">
+<img src="wallpaper/Fantasy - Sunset.png" width="300">
+<img src="wallpaper/Fantasy-Autumn.png" width="300">
+<img src="wallpaper/Fantasy-Garden.png" width="300">
+<img src="wallpaper/Fantasy-Hongkong.png" width="300">
+<img src="wallpaper/Fantasy-IcyMountain.png" width="300">
+<img src="wallpaper/Fantasy-Japanese-Street.png" width="300">
+<img src="wallpaper/Fantasy-Lake1.png" width="300">
+<img src="wallpaper/Fantasy-Lake2.png" width="300">
+<img src="wallpaper/Fantasy-Lake3.png" width="300">
+<img src="wallpaper/Fantasy-Landscape1.png" width="300">
+<img src="wallpaper/Fantasy-Landscape2.png" width="300">
+<img src="wallpaper/Fantasy-Landscape3.png" width="300">
+<img src="wallpaper/Fantasy-Lanscape-Night.png" width="300">
+<img src="wallpaper/Fantasy-Mountain.png" width="300">
+<img src="wallpaper/Fantasy-Snow-Valley.png" width="300">
+<img src="wallpaper/Forest-Dark.png" width="300">
+<img src="wallpaper/Forest-Light.png" width="300">
+<img src="wallpaper/Fuji-Dark.png" width="300">
+<img src="wallpaper/Game-GTA.png" width="300">
+<img src="wallpaper/Hcrvwqc.jpeg" width="300">
+<img src="wallpaper/Lady.png" width="300">
+<img src="wallpaper/Linux-user-Room.png" width="300">
+<img src="wallpaper/Lofi - Anime Girl Balcony.jpeg" width="300">
+<img src="wallpaper/Lofi - Anime Girl Coder.jpeg" width="300">
+<img src="wallpaper/Lofi - Anime Girl.jpeg" width="300">
+<img src="wallpaper/Lofi - Anime Girl2.png" width="300">
+<img src="wallpaper/Lofi - Chill Room.png" width="300">
+<img src="wallpaper/Lofi - Chill Room2.jpeg" width="300">
+<img src="wallpaper/Lofi - Study.png" width="300">
+<img src="wallpaper/Lofi-Anime-Room.png" width="300">
+<img src="wallpaper/Lofi-Cafe1.png" width="300">
+<img src="wallpaper/Lofi-Cafe2.png" width="300">
+<img src="wallpaper/Lofi-Computer.png" width="300">
+<img src="wallpaper/Lofi-Desktop-Man-Studying.png" width="300">
+<img src="wallpaper/Lofi-Urban-Nightscape.png" width="300">
+<img src="wallpaper/Lofi_Cat.png" width="300">
+<img src="wallpaper/Lowpoly_Street.png" width="300">
+<img src="wallpaper/Manga-Girl-Rain.png" width="300">
+<img src="wallpaper/Manga-Portal.png" width="300">
+<img src="wallpaper/Manga-Shrine.png" width="300">
+<img src="wallpaper/Messy-Room.jpg" width="300">
+<img src="wallpaper/Minimal_Squares.png" width="300">
+<img src="wallpaper/Moonlit-Mountain-Village.jpg" width="300">
+<img src="wallpaper/Mountain_dark.png" width="300">
+<img src="wallpaper/Mountain_light.png" width="300">
+<img src="wallpaper/Musashi_Miyamoto.png" width="300">
+<img src="wallpaper/Nature - Concept Butterflies.png" width="300">
+<img src="wallpaper/Nature - Flower.png" width="300">
+<img src="wallpaper/Nature - Lake.png" width="300">
+<img src="wallpaper/Nature.png" width="300">
+<img src="wallpaper/Nightfall-by-the-Lake.jpg" width="300">
+<img src="wallpaper/Nights-Embrace.jpg" width="300">
+<img src="wallpaper/Nix Silk 01.png" width="300">
+<img src="wallpaper/Nix Silk 02.png" width="300">
+<img src="wallpaper/Nix Silk 03.png" width="300">
+<img src="wallpaper/Nix Silk 04.png" width="300">
+<img src="wallpaper/Nix Silk 05.png" width="300">
+<img src="wallpaper/Nix Silk 06.png" width="300">
+<img src="wallpaper/Nix Silk 07.png" width="300">
+<img src="wallpaper/Nix Silk 08.png" width="300">
+<img src="wallpaper/Nix Silk 10.png" width="300">
+<img src="wallpaper/Pastel-Window.png" width="300">
+<img src="wallpaper/Path-to-the-Moon.jpg" width="300">
+<img src="wallpaper/Pink-Moon-Serenity.jpg" width="300">
+<img src="wallpaper/Red_Eclipse.png" width="300">
+<img src="wallpaper/Relaxed_Mario.png" width="300">
+<img src="wallpaper/Scifi-Room.png" width="300">
+<img src="wallpaper/Silk Hal 4K.png" width="300">
+<img src="wallpaper/Street-2.png" width="300">
+<img src="wallpaper/Study-table.png" width="300">
+<img src="wallpaper/Sun-Setting-Horizon.png" width="300">
+<img src="wallpaper/Sunset-Forrest.png" width="300">
+<img src="wallpaper/Sunset-room.png" width="300">
+<img src="wallpaper/Techno-Geek.png" width="300">
+<img src="wallpaper/Temple-of-the-Setting-Sun.jpg" width="300">
+<img src="wallpaper/Tokyo_Pink.png" width="300">
+<img src="wallpaper/Tower-Night.png" width="300">
+<img src="wallpaper/Under_Starlit_Sky.png" width="300">
+<img src="wallpaper/Video Game - The Blackstreets.jpeg" width="300">
+<img src="wallpaper/Village-Dark.png" width="300">
+<img src="wallpaper/Village-Light.png" width="300">
+<img src="wallpaper/Wangshu_Inn.jpg" width="300">
+<img src="wallpaper/Your_Name_Anime_night_sky.jpg" width="300">
+<img src="wallpaper/Your_Name_Night_Sky.jpg" width="300">
+<img src="wallpaper/a_black_and_white_image_of_a_person_falling_down.jpg" width="300">
+<img src="wallpaper/a_black_bird_with_a_sword.jpg" width="300">
+<img src="wallpaper/a_blue_sky_with_clouds.png" width="300">
+<img src="wallpaper/a_cartoon_of_a_woman_on_a_balcony.png" width="300">
+<img src="wallpaper/a_city_skyline_with_trees_and_clouds1.jpg" width="300">
+<img src="wallpaper/a_colorful_pyramid_with_text.jpg" width="300">
+<img src="wallpaper/a_house_with_a_bike_and_a_chair.jpg" width="300">
+<img src="wallpaper/a_mountain_range_with_snow.png" width="300">
+<img src="wallpaper/a_person_in_a_hat_standing_in_a_room_with_windows.png" width="300">
+<img src="wallpaper/a_person_on_a_bicycle_on_a_railing_with_a_city_in_the_background.png" width="300">
+<img src="wallpaper/anime-night-sky-illustration.jpg" width="300">
+<img src="wallpaper/anime-night-stars-sky-clouds-scenery.jpg" width="300">
+<img src="wallpaper/apple-light.jpg" width="300">
+<img src="wallpaper/arch_btw.png" width="300">
+<img src="wallpaper/arch_linux.png" width="300">
+<img src="wallpaper/arch_log.png" width="300">
+<img src="wallpaper/arch_log_dark.png" width="300">
+<img src="wallpaper/arch_rainbow.png" width="300">
+<img src="wallpaper/arlecchino.jpeg" width="300">
+<img src="wallpaper/astro-skull.png" width="300">
+<img src="wallpaper/bloodrock-steppes.png" width="300">
+<img src="wallpaper/blue_night_moon_over_lake.jpg" width="300">
+<img src="wallpaper/building_cyber.jpg" width="300">
+<img src="wallpaper/cabin-4.png" width="300">
+<img src="wallpaper/cat.png" width="300">
+<img src="wallpaper/catumbrella.jpg" width="300">
+<img src="wallpaper/changli.png" width="300">
+<img src="wallpaper/city-rain.png" width="300">
+<img src="wallpaper/city_bridge.jpg" width="300">
+<img src="wallpaper/city_top_view.jpg" width="300">
+<img src="wallpaper/clouds_parallelogram.jpg" width="300">
+<img src="wallpaper/cloudy.jpg" width="300">
+<img src="wallpaper/cloudy_sky.jpg" width="300">
+<img src="wallpaper/comet.jpg" width="300">
+<img src="wallpaper/copper_mountain.jpg" width="300">
+<img src="wallpaper/corndog.png" width="300">
+<img src="wallpaper/cyber_girl.jpg" width="300">
+<img src="wallpaper/deer_in_pine_forest.jpg" width="300">
+<img src="wallpaper/demon-slayer-tanjiro-flaming-sword-dark-art-desktop-wallpaper.jpg" width="300">
+<img src="wallpaper/drawing.png" width="300">
+<img src="wallpaper/emma.jpg" width="300">
+<img src="wallpaper/evelyn.png" width="300">
+<img src="wallpaper/evening-landscape.jpg" width="300">
+<img src="wallpaper/explorer_green_day.jpg" width="300">
+<img src="wallpaper/forest-landscape.jpg" width="300">
+<img src="wallpaper/gray-anime-girl.jpg" width="300">
+<img src="wallpaper/gruvbox.png" width="300">
+<img src="wallpaper/hatsun_miku.png" width="300">
+<img src="wallpaper/hi.png" width="300">
+<img src="wallpaper/high_tension.jpg" width="300">
+<img src="wallpaper/hinata_with_cigar.png" width="300">
+<img src="wallpaper/illustration-anime-city.jpg" width="300">
+<img src="wallpaper/inazuma_cats_place.png" width="300">
+<img src="wallpaper/inazuma_sacrad_tree.jpg" width="300">
+<img src="wallpaper/italy.png" width="300">
+<img src="wallpaper/japan-background-digital-art.jpg" width="300">
+<img src="wallpaper/japan-street-Dark.png" width="300">
+<img src="wallpaper/japan-street-Light.png" width="300">
+<img src="wallpaper/japanese-train.png" width="300">
+<img src="wallpaper/jinhsi.jpeg" width="300">
+<img src="wallpaper/kanagawa_waves.png" width="300">
+<img src="wallpaper/ketils_farm.jpg" width="300">
+<img src="wallpaper/keyboard.png" width="300">
+<img src="wallpaper/kojiro_musashi.png" width="300">
+<img src="wallpaper/liquid-yin-and-yang.jpeg" width="300">
+<img src="wallpaper/lofoten-sundown.jpg" width="300">
+<img src="wallpaper/lofoten2.jpg" width="300">
+<img src="wallpaper/lose-control.png" width="300">
+<img src="wallpaper/marina-bay-sands.png" width="300">
+<img src="wallpaper/mine_craft_voilet.png" width="300">
+<img src="wallpaper/miyamoto.jpg" width="300">
+<img src="wallpaper/monochrome-gaze.png" width="300">
+<img src="wallpaper/monstad_in_dark.jpg" width="300">
+<img src="wallpaper/moon.png" width="300">
+<img src="wallpaper/moonlight.jpg" width="300">
+<img src="wallpaper/mountain-lake.jpg" width="300">
+<img src="wallpaper/mountain-sunrise.jpg" width="300">
+<img src="wallpaper/muichiro-tokito.png" width="300">
+<img src="wallpaper/musashi_and_sasaki.png" width="300">
+<img src="wallpaper/muscle-car-ice-road-red-moon.jpg" width="300">
+<img src="wallpaper/mystical-night-in-town.jpg" width="300">
+<img src="wallpaper/nahida.jpeg" width="300">
+<img src="wallpaper/nature.jpg" width="300">
+<img src="wallpaper/natures-mountain-waters.jpg" width="300">
+<img src="wallpaper/neon_car.jpg" width="300">
+<img src="wallpaper/neotoxin.png" width="300">
+<img src="wallpaper/night_city.jpg" width="300">
+<img src="wallpaper/nix-bright.png" width="300">
+<img src="wallpaper/nix-dark.png" width="300">
+<img src="wallpaper/nix-wallpaper-nineish-catppuccin-mocha-alt.png" width="300">
+<img src="wallpaper/nix-wallpaper-nineish.png" width="300">
+<img src="wallpaper/nix-wallpaper-stripes-logo.png" width="300">
+<img src="wallpaper/nix.png" width="300">
+<img src="wallpaper/no-mans-land.jpg" width="300">
+<img src="wallpaper/nordwall3.jpg" width="300">
+<img src="wallpaper/northern-night.jpg" width="300">
+<img src="wallpaper/null.png" width="300">
+<img src="wallpaper/nuvillette.png" width="300">
+<img src="wallpaper/nyx_bright.png" width="300">
+<img src="wallpaper/nyx_dark.png" width="300">
+<img src="wallpaper/orange-desert.jpg" width="300">
+<img src="wallpaper/pacman.png" width="300">
+<img src="wallpaper/phoebe_wuwa.jpg" width="300">
+<img src="wallpaper/psycho-mob-100.png" width="300">
+<img src="wallpaper/raiden-with-umbrella.jpg" width="300">
+<img src="wallpaper/raiden.png" width="300">
+<img src="wallpaper/raiden_shogan.jpg" width="300">
+<img src="wallpaper/rainbow.png" width="300">
+<img src="wallpaper/red_forest.png" width="300">
+<img src="wallpaper/reflection-of-train.png" width="300">
+<img src="wallpaper/river_to_castle_theme_blue.jpg" width="300">
+<img src="wallpaper/robot-home.png" width="300">
+<img src="wallpaper/rocket-launch.jpg" width="300">
+<img src="wallpaper/rocket_launch.jpg" width="300">
+<img src="wallpaper/rocky_land.jpg" width="300">
+<img src="wallpaper/rose-pine-sword.jpg" width="300">
+<img src="wallpaper/sakura-gate.jpg" width="300">
+<img src="wallpaper/shiba.png" width="300">
+<img src="wallpaper/ship-landscape.jpeg" width="300">
+<img src="wallpaper/sky_view.jpg" width="300">
+<img src="wallpaper/spaceship-start.jpg" width="300">
+<img src="wallpaper/spaceship1.jpg" width="300">
+<img src="wallpaper/spaceship2.jpg" width="300">
+<img src="wallpaper/spaceshuttle.png" width="300">
+<img src="wallpaper/stall.jpg" width="300">
+<img src="wallpaper/sunset-01.png" width="300">
+<img src="wallpaper/sunset-10.jpg" width="300">
+<img src="wallpaper/sunset-drive-forest.jpg" width="300">
+<img src="wallpaper/sunset-in-thick-forest.jpg" width="300">
+<img src="wallpaper/sunset-lookout.jpg" width="300">
+<img src="wallpaper/sunset-mountain-beautiful.jpg" width="300">
+<img src="wallpaper/sunset4.jpg" width="300">
+<img src="wallpaper/sunset_gradient.png" width="300">
+<img src="wallpaper/sunset_landscape.jpg" width="300">
+<img src="wallpaper/sword-red.png" width="300">
+<img src="wallpaper/sword.jpg" width="300">
+<img src="wallpaper/the-snap-hunt-camping.png" width="300">
+<img src="wallpaper/the-white-horse.jpg" width="300">
+<img src="wallpaper/the_village.png" width="300">
+<img src="wallpaper/thomas.png" width="300">
+<img src="wallpaper/thorfinn_and_askeladd.jpg" width="300">
+<img src="wallpaper/thorfinn_with_tourch.jpg" width="300">
+<img src="wallpaper/train-sideview.png" width="300">
+<img src="wallpaper/train.png" width="300">
+<img src="wallpaper/tree.jpg" width="300">
+<img src="wallpaper/tree_red.png" width="300">
+<img src="wallpaper/ufo_and_cat.png" width="300">
+<img src="wallpaper/vim.png" width="300">
+<img src="wallpaper/vinland-saga.jpg" width="300">
+<img src="wallpaper/voilet-gaze.jpg" width="300">
+<img src="wallpaper/wanderer.jpeg" width="300">
+<img src="wallpaper/watchtower-mountains-and-forests.jpg" width="300">
+<img src="wallpaper/will_find_you.jpg" width="300">
+<img src="wallpaper/work.png" width="300">
+<img src="wallpaper/wrap_white_red.jpg" width="300">
+<img src="wallpaper/xiao_and_ganyu.jpg" width="300">
+<img src="wallpaper/yellowcar.jpg" width="300">
 
 </p>
 
