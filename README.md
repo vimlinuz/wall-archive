@@ -187,6 +187,7 @@ My aim is simply to make it easier for myself (and anyone who stumbles across th
 <img src="wallpapers/hi.png" width="300">
 <img src="wallpapers/high_tension.jpg" width="300">
 <img src="wallpapers/hinata_with_cigar.png" width="300">
+<img src="wallpapers/hypr_light.png" width="300">
 <img src="wallpapers/illustration-anime-city.jpg" width="300">
 <img src="wallpapers/inazuma_cats_place.png" width="300">
 <img src="wallpapers/inazuma_sacrad_tree.jpg" width="300">
