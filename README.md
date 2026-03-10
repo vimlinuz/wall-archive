@@ -142,10 +142,12 @@ My aim is simply to make it easier for myself (and anyone who stumbles across th
 <img src="wallpapers/a_mountain_range_with_snow.png" width="300">
 <img src="wallpapers/a_person_in_a_hat_standing_in_a_room_with_windows.png" width="300">
 <img src="wallpapers/a_person_on_a_bicycle_on_a_railing_with_a_city_in_the_background.png" width="300">
+<img src="wallpapers/akatsuki.png" width="300">
 <img src="wallpapers/anime-night-sky-illustration.jpg" width="300">
 <img src="wallpapers/anime-night-stars-sky-clouds-scenery.jpg" width="300">
 <img src="wallpapers/apple-light.jpg" width="300">
 <img src="wallpapers/arch_btw.png" width="300">
+<img src="wallpapers/arch_dark.png" width="300">
 <img src="wallpapers/arch_linux.png" width="300">
 <img src="wallpapers/arch_log.png" width="300">
 <img src="wallpapers/arch_log_dark.png" width="300">
