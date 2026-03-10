@@ -247,7 +247,9 @@ My aim is simply to make it easier for myself (and anyone who stumbles across th
 <img src="wallpapers/raiden.png" width="300">
 <img src="wallpapers/raiden_shogan.jpg" width="300">
 <img src="wallpapers/rainbow.png" width="300">
+<img src="wallpapers/red_forest.jpg" width="300">
 <img src="wallpapers/red_forest.png" width="300">
+<img src="wallpapers/red_forest2.jpg" width="300">
 <img src="wallpapers/reflection-of-train.png" width="300">
 <img src="wallpapers/river_to_castle_theme_blue.jpg" width="300">
 <img src="wallpapers/robot-home.png" width="300">
@@ -286,6 +288,7 @@ My aim is simply to make it easier for myself (and anyone who stumbles across th
 <img src="wallpapers/train.png" width="300">
 <img src="wallpapers/tree.jpg" width="300">
 <img src="wallpapers/tree_red.png" width="300">
+<img src="wallpapers/twilight.jpg" width="300">
 <img src="wallpapers/ufo_and_cat.png" width="300">
 <img src="wallpapers/vim.png" width="300">
 <img src="wallpapers/vinland-saga.jpg" width="300">
