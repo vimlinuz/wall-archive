@@ -174,6 +174,7 @@ My aim is simply to make it easier for myself (and anyone who stumbles across th
 <img src="wallpapers/cyber_girl.jpg" width="300">
 <img src="wallpapers/deer_in_pine_forest.jpg" width="300">
 <img src="wallpapers/demon-slayer-tanjiro-flaming-sword-dark-art-desktop-wallpaper.jpg" width="300">
+<img src="wallpapers/dmc12.jpg" width="300">
 <img src="wallpapers/drawing.png" width="300">
 <img src="wallpapers/emma.jpg" width="300">
 <img src="wallpapers/evelyn.png" width="300">
