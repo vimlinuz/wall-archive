@@ -238,6 +238,7 @@ My aim is simply to make it easier for myself (and anyone who stumbles across th
 <img src="wallpapers/nuvillette.png" width="300">
 <img src="wallpapers/nyx_bright.png" width="300">
 <img src="wallpapers/nyx_dark.png" width="300">
+<img src="wallpapers/open_sourcerer.png" width="300">
 <img src="wallpapers/orange-desert.jpg" width="300">
 <img src="wallpapers/pacman.png" width="300">
 <img src="wallpapers/phoebe_wuwa.jpg" width="300">
