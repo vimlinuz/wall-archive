@@ -146,6 +146,7 @@ My aim is simply to make it easier for myself (and anyone who stumbles across th
 <img src="wallpapers/anime-night-sky-illustration.jpg" width="300">
 <img src="wallpapers/anime-night-stars-sky-clouds-scenery.jpg" width="300">
 <img src="wallpapers/apple-light.jpg" width="300">
+<img src="wallpapers/arch_2.png" width="300">
 <img src="wallpapers/arch_btw.png" width="300">
 <img src="wallpapers/arch_dark.png" width="300">
 <img src="wallpapers/arch_linux.png" width="300">
