@@ -17,7 +17,7 @@ let images = ls wallpapers | sort-by name
 let rows = (
     $images
     | each {|it| $it.name | path basename }
-    | chunks 4
+    | chunks 3
     | each {|row|
         let tds = ($row | each {|name|
             $"  <td align=\"center\"><img src=\"wallpapers/($name)\" width=\"200\"/><br/><sub>($name)</sub></td>"
