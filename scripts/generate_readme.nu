@@ -11,7 +11,7 @@ My aim is simply to make it easier for myself (and anyone who stumbles across th
 "
 
 # Get all files in wallpapers/ with image extensions, sorted
-let images = ls ../wallpapers | sort-by name
+let images = ls wallpapers | sort-by name
 
 let img_tags = $images | each {|it| 
     $"<img src=\"wallpapers/($it.name | path basename)\" width=\"300\">"
