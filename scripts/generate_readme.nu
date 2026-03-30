@@ -8,7 +8,6 @@ My aim is simply to make it easier for myself (and anyone who stumbles across th
 ### Static Wallpapers
 
 <p align=\"center\">
-<table>
 "
 
 # Get all files in wallpapers/ with image extensions, sorted
@@ -34,8 +33,6 @@ let rows = (
 
 
 let dynamic_note = "
-</table>
-
 </p>
 
 ---
