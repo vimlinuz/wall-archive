@@ -10,7 +10,7 @@ My aim is simply to make it easier for myself (and anyone who stumbles across th
 
 |          |          |          |          |
 |----------|----------|----------|----------|
-| ![Abstract - Nature.jpg](wallpapers/Abstract - Nature.jpg) | ![Anime - Landscape.jpeg](wallpapers/Anime - Landscape.jpeg) | ![Anime-City-Night.png](wallpapers/Anime-City-Night.png) | ![Anime-Girl-Night-Sky.jpg](wallpapers/Anime-Girl-Night-Sky.jpg) |
+| ![Abstract-Nature.jpg](wallpapers/Abstract-Nature.jpg) | ![Anime - Landscape.jpeg](wallpapers/Anime - Landscape.jpeg) | ![Anime-City-Night.png](wallpapers/Anime-City-Night.png) | ![Anime-Girl-Night-Sky.jpg](wallpapers/Anime-Girl-Night-Sky.jpg) |
 | ![Anime-Girl-Rain.png](wallpapers/Anime-Girl-Rain.png) | ![Anime-Girl1.png](wallpapers/Anime-Girl1.png) | ![Anime-Girl2.png](wallpapers/Anime-Girl2.png) | ![Anime-Girl3.png](wallpapers/Anime-Girl3.png) |
 | ![Anime-Girl4.png](wallpapers/Anime-Girl4.png) | ![Anime-Girl5.png](wallpapers/Anime-Girl5.png) | ![Anime-Japan-Street.png](wallpapers/Anime-Japan-Street.png) | ![Anime-Room.png](wallpapers/Anime-Room.png) |
 | ![Arch-chan_to.png](wallpapers/Arch-chan_to.png) | ![Backyard.png](wallpapers/Backyard.png) | ![Balcony-ja.png](wallpapers/Balcony-ja.png) | ![Beer-Girl.png](wallpapers/Beer-Girl.png) |
