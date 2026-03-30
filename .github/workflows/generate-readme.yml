@@ -6,7 +6,7 @@ on:
     branches: ["main"]
     paths:
       - 'wallpapers/**'
-      - 'generate_readme.nu'
+      - 'scripts/generate_readme.nu'
 
 permissions:
   contents: write
@@ -28,7 +28,7 @@ jobs:
           sudo apt-get install -y nushell
 
       - name: Generate README.md using Nushell
-        run: nu generate_readme.nu
+        run: nu scripts/generate_readme.nu
 
       - name: Commit and push README.md if changed
         run: |
