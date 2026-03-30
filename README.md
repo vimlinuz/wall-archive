@@ -8,7 +8,6 @@ My aim is simply to make it easier for myself (and anyone who stumbles across th
 ### Static Wallpapers
 
 <p align="center">
-<table>
 
 | ![Abstract - Nature.jpg]https://raw.githubusercontent.com/vimlinuz/wall-archive/main/Abstract - Nature.jpg | ![Anime - Landscape.jpeg]https://raw.githubusercontent.com/vimlinuz/wall-archive/main/Anime - Landscape.jpeg | ![Anime-City-Night.png]https://raw.githubusercontent.com/vimlinuz/wall-archive/main/Anime-City-Night.png | ![Anime-Girl-Night-Sky.jpg]https://raw.githubusercontent.com/vimlinuz/wall-archive/main/Anime-Girl-Night-Sky.jpg |
 | ![Anime-Girl-Rain.png]https://raw.githubusercontent.com/vimlinuz/wall-archive/main/Anime-Girl-Rain.png | ![Anime-Girl1.png]https://raw.githubusercontent.com/vimlinuz/wall-archive/main/Anime-Girl1.png | ![Anime-Girl2.png]https://raw.githubusercontent.com/vimlinuz/wall-archive/main/Anime-Girl2.png | ![Anime-Girl3.png]https://raw.githubusercontent.com/vimlinuz/wall-archive/main/Anime-Girl3.png |
@@ -83,8 +82,6 @@ My aim is simply to make it easier for myself (and anyone who stumbles across th
 | ![vim.png]https://raw.githubusercontent.com/vimlinuz/wall-archive/main/vim.png | ![vinland-saga.jpg]https://raw.githubusercontent.com/vimlinuz/wall-archive/main/vinland-saga.jpg | ![voilet-gaze.jpg]https://raw.githubusercontent.com/vimlinuz/wall-archive/main/voilet-gaze.jpg | ![wanderer.jpeg]https://raw.githubusercontent.com/vimlinuz/wall-archive/main/wanderer.jpeg |
 | ![watchtower-mountains-and-forests.jpg]https://raw.githubusercontent.com/vimlinuz/wall-archive/main/watchtower-mountains-and-forests.jpg | ![will_find_you.jpg]https://raw.githubusercontent.com/vimlinuz/wall-archive/main/will_find_you.jpg | ![work.png]https://raw.githubusercontent.com/vimlinuz/wall-archive/main/work.png | ![wrap_white_red.jpg]https://raw.githubusercontent.com/vimlinuz/wall-archive/main/wrap_white_red.jpg |
 | ![xiao_and_ganyu.jpg]https://raw.githubusercontent.com/vimlinuz/wall-archive/main/xiao_and_ganyu.jpg | ![yellowcar.jpg]https://raw.githubusercontent.com/vimlinuz/wall-archive/main/yellowcar.jpg |
-
-</table>
 
 </p>
 
