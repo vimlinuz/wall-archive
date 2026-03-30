@@ -16,7 +16,7 @@ let images = ls wallpapers | sort-by name
 
 let base_url = "https://raw.githubusercontent.com/vimlinuz/wall-archive/main"
 let first_row = "
-| Column 1 | Column 2 | Column 3 | Column 4 |
+|          |          |          |          |
 |----------|----------|----------| ---------|
 ";
 
@@ -28,7 +28,7 @@ let rows = (
         $row
         | each {|name|
             let url = $"($base_url)/($name)"
-            $"![($name)](($url))"
+            $"![($name)]\(($url)\)"
         }
         | str join " | "
         | $"| ($in) |"
