@@ -34,6 +34,6 @@ Please respect the original creators of the wallpapers. This collection is for p
 
 # Concatenate all parts and write to README.md
 let final_readme = $readme_template + "\n" + $img_tags + "\n" + $dynamic_note
-echo $final_readme | save -f ../README.md
+echo $final_readme | save -f README.md
 
 echo $"README.md generated with ($images | length) static wallpapers."
