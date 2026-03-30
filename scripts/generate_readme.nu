@@ -6,18 +6,15 @@ My aim is simply to make it easier for myself (and anyone who stumbles across th
 
 ## Wallpaper Previews
 ### Static Wallpapers
-
-<p align=\"center\">
-
 ";
 
 # Get all files in wallpapers/ with image extensions, sorted
 let images = ls wallpapers | sort-by name
 
-let base_url = "https://raw.githubusercontent.com/vimlinuz/wall-archive/main"
+# let base_url = "https://raw.githubusercontent.com/vimlinuz/wall-archive/refs/heads/main"
 let first_row = "
 |          |          |          |          |
-|----------|----------|----------| ---------|
+|----------|----------|----------|----------|
 ";
 
 let rows = (
@@ -27,7 +24,7 @@ let rows = (
     | each {|row|
         $row
         | each {|name|
-            let url = $"($base_url)/($name)"
+            let url = $"wallpapers/($name)"
             $"![($name)]\(($url)\)"
         }
         | str join " | "
@@ -38,7 +35,6 @@ let rows = (
 
 
 let dynamic_note = "
-</p>
 
 ---
 
