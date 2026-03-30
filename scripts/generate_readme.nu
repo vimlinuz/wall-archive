@@ -10,7 +10,10 @@ My aim is simply to make it easier for myself (and anyone who stumbles across th
 
 ls wallpapers/ | each { |file|
     let name = $file.name
-    let new_name = $name | str replace -a ' ' '_'
+    let new_name = $name
+        | str replace -ar '[^a-zA-Z0-9_./]' '_'  # replace special chars with _
+        | str replace -ar '_+' '_'                 # collapse multiple underscores
+        | str downcase                             # lowercase everything
     if $name != $new_name {
         mv $name $new_name
     }
