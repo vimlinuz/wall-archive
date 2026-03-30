@@ -8,12 +8,17 @@ My aim is simply to make it easier for myself (and anyone who stumbles across th
 ### Static Wallpapers
 
 <p align=\"center\">
-"
+
+";
 
 # Get all files in wallpapers/ with image extensions, sorted
 let images = ls wallpapers | sort-by name
 
 let base_url = "https://raw.githubusercontent.com/vimlinuz/wall-archive/main"
+let first_row = "
+| Column 1 | Column 2 | Column 3 | Column 4 |
+|----------|----------|----------| ---------|
+";
 
 let rows = (
     $images
@@ -29,7 +34,7 @@ let rows = (
         | $"| ($in) |"
     }
 | str join "\n"
-)
+);
 
 
 let dynamic_note = "
@@ -45,10 +50,10 @@ Please respect the original creators of the wallpapers. This collection is for p
 
 > Usage: Personal use only. Do not redistribute or use for commercial purposes without permission from the original author.
 > If you're a creator and would like your artwork removed or credited, please open an issue.  
-"
+";
 
 # Concatenate all parts and write to README.md
-let final_readme = $readme_template + "\n" + $rows + "\n" + $dynamic_note
+let final_readme = $readme_template + "\n" + $first_row +  $rows + "\n" + $dynamic_note;
 echo $final_readme | save -f README.md
 
 echo $"README.md generated with ($images | length) static wallpapers."
