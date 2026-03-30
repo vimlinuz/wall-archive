@@ -14,17 +14,22 @@ My aim is simply to make it easier for myself (and anyone who stumbles across th
 # Get all files in wallpapers/ with image extensions, sorted
 let images = ls wallpapers | sort-by name
 
+let base_url = "https://raw.githubusercontent.com/vimlinuz/wall-archive/main"
+
 let rows = (
     $images
     | each {|it| $it.name | path basename }
-    | chunks 3
+    | chunks 4
     | each {|row|
-        let tds = ($row | each {|name|
-            $"  <td align=\"center\"><img src=\"wallpapers/($name)\" width=\"200\"/><br/><sub>($name)</sub></td>"
-        } | str join "\n")
-        $"<tr>\n($tds)\n</tr>"
+        $row
+        | each {|name|
+            let url = $"($base_url)/($name)"
+            $"![($name)](($url))"
+        }
+        | str join " | "
+        | $"| ($in) |"
     }
-    | str join "\n"
+| str join "\n"
 )
 
 
