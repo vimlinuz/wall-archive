@@ -9,7 +9,6 @@ My aim is simply to make it easier for myself (and anyone who stumbles across th
 
 <p align="center">
 
-<img src="wallpapers/051-falltree.png" width="300">
 <img src="wallpapers/Abstract - Nature.jpg" width="300">
 <img src="wallpapers/Anime - Landscape.jpeg" width="300">
 <img src="wallpapers/Anime-City-Night.png" width="300">
@@ -180,6 +179,7 @@ My aim is simply to make it easier for myself (and anyone who stumbles across th
 <img src="wallpapers/evelyn.png" width="300">
 <img src="wallpapers/evening-landscape.jpg" width="300">
 <img src="wallpapers/explorer_green_day.jpg" width="300">
+<img src="wallpapers/falltree.png" width="300">
 <img src="wallpapers/forest-landscape.jpg" width="300">
 <img src="wallpapers/gray-anime-girl.jpg" width="300">
 <img src="wallpapers/gruvbox.png" width="300">
