@@ -8,16 +8,29 @@ My aim is simply to make it easier for myself (and anyone who stumbles across th
 ### Static Wallpapers
 
 <p align=\"center\">
+<table>
 "
 
 # Get all files in wallpapers/ with image extensions, sorted
 let images = ls wallpapers | sort-by name
 
-let img_tags = $images | each {|it| 
-    $"<img src=\"wallpapers/($it.name | path basename)\" width=\"300\">"
-} | str join "\n"
+let rows = (
+    $images
+    | each {|it| $it.name | path basename }
+    | chunks 4
+    | each {|row|
+        let tds = ($row | each {|name|
+            $"  <td align=\"center\"><img src=\"wallpapers/($name)\" width=\"200\"/><br/><sub>($name)</sub></td>"
+        } | str join "\n")
+        $"<tr>\n($tds)\n</tr>"
+    }
+    | str join "\n"
+)
+
 
 let dynamic_note = "
+</table>
+
 </p>
 
 ---
@@ -33,7 +46,7 @@ Please respect the original creators of the wallpapers. This collection is for p
 "
 
 # Concatenate all parts and write to README.md
-let final_readme = $readme_template + "\n" + $img_tags + "\n" + $dynamic_note
+let final_readme = $readme_template + "\n" + $rows + "\n" + $dynamic_note
 echo $final_readme | save -f README.md
 
 echo $"README.md generated with ($images | length) static wallpapers."
