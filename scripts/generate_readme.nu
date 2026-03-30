@@ -8,6 +8,14 @@ My aim is simply to make it easier for myself (and anyone who stumbles across th
 ### Static Wallpapers
 ";
 
+ls wallpapers/ | each { |file|
+    let name = $file.name
+    let new_name = $name | str replace -a ' ' '_'
+    if $name != $new_name {
+        mv $name $new_name
+    }
+}
+
 # Get all files in wallpapers/ with image extensions, sorted
 let images = ls wallpapers | sort-by name
 
