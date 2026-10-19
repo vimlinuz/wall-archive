@@ -1,0 +1,55 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: #0e0e0e;
+  color: #ccc;
+  font-family: monospace;
+  padding: 2rem;
+}
+header {
+  max-width: 700px;
+  margin: 0 auto 2.5rem;
+}
+header h1 {
+  font-size: 1.6rem;
+  color: #fff;
+  margin-bottom: 0.75rem;
+  letter-spacing: 0.05em;
+}
+header p {
+  font-size: 0.85rem;
+  line-height: 1.7;
+  color: #888;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 6px;
+}
+.grid a {
+  margin-bottom: 0;
+  break-inside: unset;
+}
+.grid img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 4px;
+  transition: opacity 0.2s ease;
+}
+.grid a:hover img {
+  opacity: 0.75;
+}
+footer {
+  margin-top: 3rem;
+  font-size: 0.75rem;
+  color: #555;
+  text-align: center;
+  line-height: 1.8;
+}

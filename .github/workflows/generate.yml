@@ -1,0 +1,32 @@
+name: Generate json
+
+on:
+  workflow_dispatch:
+  push:
+    branches: ["main"]
+    paths:
+      - "wallpapers/**"
+      - "scripts/generate_json.sh"
+
+permissions:
+  contents: write
+
+jobs:
+  generate-index:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate generated.json using script
+        run: bash scripts/generate_json.sh
+
+      - name: Commit and push index.html if changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add wallpapers/ ./docs/generated.json
+          git diff --cached --quiet || git commit -m "chore: auto-update json and rename wallpapers"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
